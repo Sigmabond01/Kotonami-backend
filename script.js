@@ -1,16 +1,66 @@
-import fs from 'fs';
-import { parse } from 'subtitle';
+import path from "path";
+import { fileURLToPath } from "url";
+import { parseVTT } from "./vttparser.js";
+import { initKuroshiro, getWordsData } from "./wordParser.js";
+import fs from 'fs/promises';
 
-const vttData = fs.readFileSync('beast.vtt', 'utf-8');
-const parsed = parse(vttData);
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-const jsonOutput = parsed
-  .filter(line => line.type === 'cue')
-  .map(({ data }) => ({
-    start: data.start,
-    end: data.end,
-    text: data.text
-  }));
+const vttPath = path.join(__dirname, "subtitles", "beast.vtt");
 
-fs.writeFileSync('output.json', JSON.stringify(jsonOutput, null, 2));
-console.log('✅ Done. output.json created.');
+const run = async () => {
+  console.log('Loading subtitles...');
+  const subs = parseVTT(vttPath);
+  console.log(`Loaded ${subs.length} subtitle lines from "${vttPath}"`);
+
+  console.log('Initializing kuroshiro for analysis');
+  const kuroshiro = await initKuroshiro();
+  console.log('initialized successfully');
+
+  //empty array to store the processed data for all subtitle lines.
+  const allProcessedData = [];
+  console.log('\n--- Starting word data extraction for all lines ---');
+
+  for(let i = 0; i<subs.length; i++) {
+    const subtitleLine = subs[i];
+    const lineText = subtitleLine.text;
+    console.log(`\n Processing line ${i + 1}/${subs.length} (Time: ${subtitleLine.start}-${subtitleLine.end}): "${lineText.substring(0, 70)}${lineText.length > 70 ? '...' : ''}"`);
+
+    try {
+      //Calls getWordsData to tokenize the Japanese text
+      const wordsData = await getWordsData(lineText, kuroshiro);
+      allProcessedData.push({
+        lineNumber: i + 1,
+        startTime: subtitleLine.start,
+        endTime: subtitleLine.end,
+        originalText: lineText,
+        words: wordsData
+      });
+      console.log(`Finished processing line ${i + 1}.`);
+    } catch (error) {
+      console.error(`Error processing line ${i + 1} (${subtitleLine.start}-${subtitleLine.end}): "${lineText.substring(0, 70)}${lineText.length > 70 ? '...' : ''}"`, error.message);
+      allProcessedData.push({
+        lineNumber: i + 1,
+        startTime: subtitleLine.start,
+        endTime: subtitleLine.end,
+        originalText: lineText,
+        error: error.message
+      });
+    }
+  }
+  console.log('\n--- All lines processed ---');
+
+  const outputFileName = 'processed_subtitle_data.json';
+  //full path for the output JSON file.
+  const outputPath = path.join(__dirname, outputFileName);
+  try {
+    await fs.writeFile(outputPath, JSON.stringify(allProcessedData, null, 2), 'utf-8');
+    console.log(`All processed data saved to ${outputPath}`);
+  } catch (fileWriteError) {
+    console.error(`Error saving processed data to ${outputPath}:`, fileWriteError.message)
+  }
+};
+
+//executes the main 'run' function.
+run().catch(console.error);
