@@ -5458,5 +5458,21 @@
   "駅": {
     "meaning": "Not found",
     "jplt": ""
+  },
+  "今年": {
+    "meaning": "Not found",
+    "jplt": ""
+  },
+  "つもり": {
+    "meaning": "Not found",
+    "jplt": ""
+  },
+  "あんまり": {
+    "meaning": "remainder, remnant, rest, balance, surplus, remains (of a meal), leftovers",
+    "jlpt": "jlpt-n3"
+  },
+  "関係": {
+    "meaning": "relation, relationship, connection",
+    "jlpt": "jlpt-n4"
   }
 }

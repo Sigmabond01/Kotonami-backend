@@ -1,6 +1,6 @@
 import axios from "axios";
 import fs from 'fs/promises';
-import path from 'path';  
+import path from 'path';
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
@@ -11,117 +11,117 @@ const cachePath = path.join(process.cwd(), CACHE_FILE_NAME);
 
 let wordCache = {};
 
-//load the word cache from the local file system.
 async function loadCache() {
   try {
     const data = await fs.readFile(cachePath, 'utf-8');
     wordCache = JSON.parse(data);
-    console.log(`Loaded ${Object.keys(wordCache).length} words from cache`);
+    console.log(`Loaded ${Object.keys(wordCache).length} words from cache.`);
   } catch (error) {
-    if(error.code === 'ENOENT' ) {
-      console.log('Jisho file not found');
+    if (error.code === 'ENOENT') {
+      console.log('Jisho word cache file not found. Starting with empty cache.');
       wordCache = {};
     } else {
-      console.log('Error loading Jisho: ', error.message);
+      console.error('Error loading Jisho word cache:', error.message);
       wordCache = {};
     }
   }
 }
 
-//function to save the current in-memory word cache to the local file system
 async function saveCache() {
   try {
     await fs.writeFile(cachePath, JSON.stringify(wordCache, null, 2), 'utf-8');
-  } catch(error) {
-    console.log('Error saving Jisho: ', error.message);
+  } catch (error) {
+    console.error('Error saving Jisho word cache:', error.message);
   }
-  
 }
 
-//function to initialize the Kuroshiro library and its analyzer.
 export async function initKuroshiro() {
-  console.log("Importing kuroshiro");
+  console.log("Attempting to import Kuroshiro...");
   const KuroshiroModule = await import("kuroshiro");
   const Kuroshiro = KuroshiroModule.default.default;
-  if(typeof Kuroshiro !== 'function') {
-    console.error("Kuroshiro is not a function", typeof Kuroshiro);
-    throw new Error("Kuroshiro not found!");
+  if (typeof Kuroshiro !== 'function') {
+    console.error("Kuroshiro.default.default is not a function! Actual type:", typeof Kuroshiro);
+    throw new Error("Kuroshiro not found as a constructor after import.");
   }
-  console.log("Kuroshiro imported successfully");
-  console.log("Attempting to import Analyzer");
+  console.log("Kuroshiro class imported successfully.");
 
+  console.log("Attempting to import KuromojiAnalyzer...");
   const KuromojiAnalyzerModule = await import("kuroshiro-analyzer-kuromoji");
   const KuromojiAnalyzer = KuromojiAnalyzerModule.default;
-  if(typeof KuromojiAnalyzer !== 'function') {
-    console.error("Kuromoji is not a function", typeof KuromojiAnalyzer);
-    throw new Error("Kuromoji not found");
+  if (typeof KuromojiAnalyzer !== 'function') {
+    console.error("KuromojiAnalyzer.default is not a function! Actual type:", typeof KuromojiAnalyzer);
+    throw new Error("KuromojiAnalyzer not found as a constructor after import.");
   }
   console.log("KuromojiAnalyzer class imported successfully.");
 
-  //create new instance
   const analyzer = new KuromojiAnalyzer();
-  console.log("Kuromoji instance created !");
+  console.log("KuromojiAnalyzer instance created.");
+
   const kuroshiro = new Kuroshiro();
-  console.log("Kuroshiro instance created!");
+  console.log("Kuroshiro instance created.");
 
   await kuroshiro.init(analyzer);
-  console.log("Kuroshiro initialized successfully with KuromojiAnalyzer."); 
+  console.log("Kuroshiro initialized successfully with KuromojiAnalyzer.");
 
-  //ensure cache is ready
   await loadCache();
+
   return kuroshiro;
 }
 
-//function to get detailed word data
 export const getWordsData = async (sentence, kuroshiro) => {
   const tokens = await kuroshiro._analyzer._analyzer.tokenize(sentence);
 
   const wordResults = [];
   let cacheUpdated = false;
 
-  for(const token of tokens) {
+  for (const token of tokens) {
     const word = token.surface_form;
-    //converting word
-    const reading = await kuroshiro.convert(word, { to: "hiragana"});
-    const romaji = await kuroshiro.convert(word, { to: "romaji"});
+    const reading = await kuroshiro.convert(word, { to: "hiragana" });
+    const romaji = await kuroshiro.convert(word, { to: "romaji" });
 
-    // Initializes variables for meaning and JLPT level.
     let meaning = "";
-    let jplt = "";
+    let jlpt = "";
 
-    //Caching
-    if(wordCache[word]) {
-      ({meaning,jplt} = wordCache[word]);
+    if (wordCache[word]) {
+      ({ meaning, jlpt } = wordCache[word]);
     } else {
       try {
-        await sleep(50);
+        await sleep(100);
+
         const res = await axios.get(
           `https://jisho.org/api/v1/search/words?keyword=${encodeURIComponent(word)}`,
           {
             headers: {
-              'User-Agent': 'Kotonami-Backend/1.0 (smdnoor4966@gmail.com)'
+              'User-Agent': 'Kotonami-Backend/1.0 (contact@example.com)'
             }
           }
         );
+
         const entry = res.data.data[0];
-        if(entry) {
+        if (entry) {
           meaning = entry.senses[0]?.english_definitions?.join(", ") || "";
-          jplt = entry.jplt[0] || "";
+          console.log(`[Jisho API] Word: "${word}", Raw JLPT from API:`, entry.jlpt);
+          jlpt = entry.jlpt && entry.jlpt.length > 0 ? entry.jlpt[0] : ""; // More robust check
         }
-        wordCache[word] = {meaning,jplt};
+
+        wordCache[word] = { meaning, jlpt };
         cacheUpdated = true;
+
       } catch (e) {
         meaning = "Not found";
-        jplt = "";
+        jlpt = "";
         console.error(`Error fetching data for word "${word}":`, e.message);
-        wordCache[word] = {meaning: "Not found", jplt: ""};
+        wordCache[word] = { meaning: "Not found", jlpt: "" };
         cacheUpdated = true;
       }
     }
-    wordResults.push({word,reading,romaji,meaning,jplt});
+
+    wordResults.push({ word, reading, romaji, meaning, jlpt });
   }
-  if(cacheUpdated) {
+
+  if (cacheUpdated) {
     await saveCache();
   }
+
   return wordResults;
-}
+};
