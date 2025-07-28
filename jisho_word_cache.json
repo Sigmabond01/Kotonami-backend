@@ -1,4 +1,8 @@
 {
+  "9": {
+    "meaning": "nine, 9",
+    "jlpt": "jlpt-n3"
+  },
   "24": {
     "meaning": "24 divisions of the solar year, 24 terms used to denote the changing of the seasons",
     "jlpt": ""
@@ -13,6 +17,10 @@
   },
   "27": {
     "meaning": "27, twenty seven",
+    "jlpt": ""
+  },
+  "30": {
+    "meaning": "thirty, 30",
     "jlpt": ""
   },
   "119": {
@@ -5473,6 +5481,102 @@
   },
   "関係": {
     "meaning": "relation, relationship, connection",
+    "jlpt": "jlpt-n4"
+  },
+  "うん": {
+    "meaning": "fortune, luck, chance",
+    "jlpt": "jlpt-n3"
+  },
+  "色々": {
+    "meaning": "various, a variety of, all sorts of, many (different)",
+    "jlpt": "jlpt-n1"
+  },
+  "名古屋": {
+    "meaning": "Nagoya (city)",
+    "jlpt": ""
+  },
+  "町": {
+    "meaning": "town, block, neighbourhood, neighborhood",
+    "jlpt": "jlpt-n3"
+  },
+  "音楽": {
+    "meaning": "music",
+    "jlpt": "jlpt-n5"
+  },
+  "]": {
+    "meaning": "",
+    "jlpt": ""
+  },
+  "美味しい": {
+    "meaning": "good(-tasting), nice, delicious, tasty",
+    "jlpt": "jlpt-n1"
+  },
+  "ラーメン": {
+    "meaning": "ramen, Chinese-style noodles",
+    "jlpt": ""
+  },
+  "こんばんは": {
+    "meaning": "good evening",
+    "jlpt": "jlpt-n2"
+  },
+  "けん": {
+    "meaning": "prefecture (of Japan), county (of China, Taiwan, Norway, etc.), department (of France), province (of Italy, Spain, etc.)",
+    "jlpt": "jlpt-n3"
+  },
+  "休み": {
+    "meaning": "rest, recess, respite",
+    "jlpt": "jlpt-n5"
+  },
+  "山": {
+    "meaning": "mountain, hill",
+    "jlpt": "jlpt-n5"
+  },
+  "川": {
+    "meaning": "river, stream",
+    "jlpt": "jlpt-n3"
+  },
+  "田舎": {
+    "meaning": "rural area, countryside, the sticks",
+    "jlpt": "jlpt-n4"
+  },
+  "YouTube": {
+    "meaning": "YouTube",
+    "jlpt": ""
+  },
+  "話す": {
+    "meaning": "to talk, to speak, to converse, to chat",
+    "jlpt": "jlpt-n5"
+  },
+  "投稿": {
+    "meaning": "contribution (to a newspaper, magazine, etc.), submission, post (on a blog, social media, etc.)",
+    "jlpt": ""
+  },
+  "散歩": {
+    "meaning": "walk, stroll",
+    "jlpt": "jlpt-n3"
+  },
+  "?": {
+    "meaning": "",
+    "jlpt": ""
+  },
+  "時々": {
+    "meaning": "sometimes, occasionally, at times, from time to time, now and then, once in a while, at intervals",
+    "jlpt": "jlpt-n5"
+  },
+  "冬": {
+    "meaning": "winter",
+    "jlpt": "jlpt-n5"
+  },
+  "寒い": {
+    "meaning": "cold (e.g. weather)",
+    "jlpt": "jlpt-n5"
+  },
+  "夏": {
+    "meaning": "summer",
+    "jlpt": "jlpt-n5"
+  },
+  "ち": {
+    "meaning": "blood",
     "jlpt": "jlpt-n4"
   }
 }
