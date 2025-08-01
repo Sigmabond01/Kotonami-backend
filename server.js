@@ -6,8 +6,23 @@
 
     import { initKuroshiro, getWordsData } from "./wordParser.js";
     import { parseVTT } from "./vttparser.js";
+    import SubtitleLine from './models/SubtitleLine.js';
 
     import ejs from "ejs";
+    import dotenv from 'dotenv';
+
+    import SubtitleLine from './models/SubtitleLine.js';
+
+app.get("/api/subtitles", async (req, res) => {
+  try {
+    const lines = await SubtitleLine.find().limit(100);
+    res.json(lines);
+  } catch (err) {
+    res.status(500).json({ error: 'Failed to fetch subtitles' });
+  }
+});
+
+dotenv.config();
 
     const __filename = fileURLToPath(import.meta.url);
     const __dirname = path.dirname(__filename);

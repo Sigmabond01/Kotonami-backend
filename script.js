@@ -1,3 +1,4 @@
+import { connectDB } from "./db.js";
 import path from "path";
 import {
   fileURLToPath
@@ -10,6 +11,11 @@ import {
   getWordsData
 } from "./wordParser.js";
 import fs from 'fs/promises';
+import SubtitleLine from './models/SubtitleLine.js';
+import dotenv from 'dotenv';
+dotenv.config();
+
+await connectDB();
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -44,6 +50,13 @@ const run = async () => {
         originalText: lineText,
         words: wordsData
       });
+      await SubtitleLine.create({
+  lineNumber: i + 1,
+  startTime: subtitleLine.start,
+  endTime: subtitleLine.end,
+  originalText: lineText,
+  words: wordsData
+});
       console.log(`✅ Finished processing line ${i + 1}.`);
     } catch (error) {
       console.error(`❌ Error processing line ${i + 1} (${subtitleLine.start}-${subtitleLine.end}): "${lineText.substring(0, 70)}${lineText.length > 70 ? '...' : ''}"`, error.message);
@@ -54,6 +67,13 @@ const run = async () => {
         originalText: lineText,
         error: error.message
       });
+      await SubtitleLine.create({
+  lineNumber: i + 1,
+  startTime: subtitleLine.start,
+  endTime: subtitleLine.end,
+  originalText: lineText,
+  error: error.message
+});
     }
   }
 

@@ -1,4 +1,12 @@
 {
+  "2": {
+    "meaning": "two, 2",
+    "jlpt": "jlpt-n5"
+  },
+  "3": {
+    "meaning": "three, 3",
+    "jlpt": "jlpt-n1"
+  },
   "9": {
     "meaning": "nine, 9",
     "jlpt": "jlpt-n3"
@@ -5578,5 +5586,173 @@
   "ち": {
     "meaning": "blood",
     "jlpt": "jlpt-n4"
+  },
+  "京都": {
+    "meaning": "Kyoto (city, prefecture)",
+    "jlpt": ""
+  },
+  "littlebit": {
+    "meaning": "",
+    "jlpt": ""
+  },
+  "それでは": {
+    "meaning": "well, ..., right, ..., now, ...",
+    "jlpt": "jlpt-n1"
+  },
+  "口": {
+    "meaning": "mouth",
+    "jlpt": "jlpt-n5"
+  },
+  "動く": {
+    "meaning": "to move, to stir, to shift, to shake, to swing",
+    "jlpt": "jlpt-n4"
+  },
+  "校": {
+    "meaning": "school",
+    "jlpt": "jlpt-n1"
+  },
+  "声": {
+    "meaning": "voice",
+    "jlpt": "jlpt-n5"
+  },
+  "なんか": {
+    "meaning": "something like ..., things like ..., someone like ..., the likes of ...",
+    "jlpt": "jlpt-n1"
+  },
+  "変": {
+    "meaning": "strange, odd, peculiar, weird, curious, eccentric, funny, suspicious, fishy",
+    "jlpt": "jlpt-n4"
+  },
+  "ねぇ": {
+    "meaning": "right?, isn't it?, doesn't it?, don't you?, don't you think?",
+    "jlpt": ""
+  },
+  "帰り": {
+    "meaning": "return, coming back",
+    "jlpt": "jlpt-n4"
+  },
+  "なさい": {
+    "meaning": "do ...",
+    "jlpt": ""
+  },
+  "いま": {
+    "meaning": "living room (Western style), sitting room",
+    "jlpt": "jlpt-n3"
+  },
+  "メキシコ": {
+    "meaning": "Mexico",
+    "jlpt": ""
+  },
+  "最も": {
+    "meaning": "most, extremely",
+    "jlpt": "jlpt-n3"
+  },
+  "有名": {
+    "meaning": "famous, well-known",
+    "jlpt": "jlpt-n5"
+  },
+  "日本人": {
+    "meaning": "Japanese person",
+    "jlpt": ""
+  },
+  "YouTuber": {
+    "meaning": "YouTuber, YouTube celebrity",
+    "jlpt": ""
+  },
+  "書い": {
+    "meaning": "Not found",
+    "jlpt": ""
+  },
+  "確か": {
+    "meaning": "sure, certain, positive, definite",
+    "jlpt": "jlpt-n4"
+  },
+  "オレ": {
+    "meaning": "I, me",
+    "jlpt": "jlpt-n1"
+  },
+  "出し": {
+    "meaning": "dashi, Japanese soup stock made from fish and kelp",
+    "jlpt": ""
+  },
+  "整形": {
+    "meaning": "orthopedics, plastic surgery, cosmetic surgery",
+    "jlpt": ""
+  },
+  "建て": {
+    "meaning": "contract, commitment",
+    "jlpt": ""
+  },
+  "状態": {
+    "meaning": "state, condition, situation, appearance, circumstances",
+    "jlpt": "jlpt-n3"
+  },
+  "やばかっ": {
+    "meaning": "dangerous, risky",
+    "jlpt": ""
+  },
+  "知り": {
+    "meaning": "acquaintance",
+    "jlpt": "jlpt-n2"
+  },
+  "勝ち": {
+    "meaning": "win, victory",
+    "jlpt": "jlpt-n3"
+  },
+  "ちょ": {
+    "meaning": "(written) work, book",
+    "jlpt": ""
+  },
+  "強い": {
+    "meaning": "strong, potent, competent, domineering, tough",
+    "jlpt": "jlpt-n5"
+  },
+  "す": {
+    "meaning": "nest, rookery, breeding place, hive",
+    "jlpt": "jlpt-n3"
+  },
+  "へえ": {
+    "meaning": "oh, yes?, really?",
+    "jlpt": ""
+  },
+  "断言": {
+    "meaning": "assertion, declaration, affirmation",
+    "jlpt": "jlpt-n1"
+  },
+  "ください": {
+    "meaning": "please (give me)",
+    "jlpt": "jlpt-n5"
+  },
+  "くみ": {
+    "meaning": "class (of students)",
+    "jlpt": "jlpt-n3"
+  },
+  "思い": {
+    "meaning": "thought",
+    "jlpt": ""
+  },
+  "文化": {
+    "meaning": "culture, civilization, civilisation",
+    "jlpt": "jlpt-n4"
+  },
+  "興味": {
+    "meaning": "interest (in something), curiosity (about something), zest (for)",
+    "jlpt": "jlpt-n4"
+  },
+  "決め": {
+    "meaning": "agreement, rule",
+    "jlpt": ""
+  },
+  "ノール": {
+    "meaning": "Nord, Knolle, Nohl",
+    "jlpt": ""
+  },
+  "お前": {
+    "meaning": "you",
+    "jlpt": "jlpt-n3"
+  },
+  "おい": {
+    "meaning": "old age, old person, the old, the aged",
+    "jlpt": "jlpt-n3"
   }
 }
