@@ -1,3 +1,4 @@
+node_modules/
 .env
-node_modules
+vtt_cache/
 jisho_word_cache.json
