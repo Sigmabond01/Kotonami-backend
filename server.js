@@ -3,6 +3,7 @@ dotenv.config();
 console.log('Loaded MONGO_URI:', process.env.MONGO_URI);
 
 import express from "express";
+import cors from 'cors';
 import { exec } from "child_process";
 import fs from "fs/promises";
 import path from "path";
@@ -17,6 +18,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
+app.use(cors());
 const PORT = 3001;
 
 app.use(express.json());
@@ -132,7 +134,7 @@ app.get("/subtitles/:videoId", async (req, res) => {
   }
 });
 
-app.post("/parse-japanese-text", async (req, res) => {
+app.post("/api/parse-japanese-text", async (req, res) => {
   const { sentence } = req.body;
   if (!sentence) {
     return res.status(400).json({ error: "Missing 'sentence' in request body." });
@@ -147,6 +149,31 @@ app.post("/parse-japanese-text", async (req, res) => {
   } catch (error) {
     console.error("API: Error parsing Japanese text:", error.message);
     res.status(500).json({ error: "Failed to parse Japanese text.", details: error.message });
+  }
+});
+
+app.get("/api/anime", async (req, res) => {
+  try {
+    const animes = await db.collection('animes').find({}).toArray();
+    res.json(animes);
+  } catch (error) {
+    console.error("Error fetching anime list:", error);
+    res.status(500).json({ error: "Failed to fetch anime list." });
+  }
+});
+
+app.get("/api/anime/:slug", async (req, res) => {
+  try {
+    const { slug } = req.params;
+    const anime = await db.collection('animes').findOne({ slug });
+    if (anime) {
+      res.json(anime);
+    } else {
+      res.status(404).json({ error: "Anime not found." });
+    }
+  } catch (error) {
+    console.error(`Error fetching anime with slug ${slug}:`, error);
+    res.status(500).json({ error: "Failed to fetch anime details." });
   }
 });
 
