@@ -52,29 +52,30 @@ function sleep(ms) {
 const TEMP_VTT_DIR = path.join(__dirname, 'vtt_temp');
 fs.mkdir(TEMP_VTT_DIR, { recursive: true }).catch(console.error);
 
-async function executeYtDlpCommand(command, videoId, lang, retries = 3, delayMs = 5000) {
+async function executeYtDlpCommand(command, videoId, lang, retries = 3, initialDelayMs = 10000) { // Increased initial delay to 10 seconds
   for (let i = 0; i < retries; i++) {
     try {
       if (i > 0) {
-        console.warn(`Retrying yt-dlp for ${videoId} (${lang}), attempt ${i + 1}/${retries}...`);
-        await sleep(delayMs * (i + 1));
-      } else {
-        await sleep(delayMs);
+        const delay = initialDelayMs * (i + 1); 
+        console.warn(`Retrying yt-dlp for ${videoId} (${lang}), attempt ${i + 1}/${retries}. Waiting for ${delay / 1000} seconds...`);
+        await sleep(delay);
       }
 
       return await new Promise((resolve, reject) => {
         exec(command, (error, stdout, stderr) => {
+          if (stderr.includes('No subtitles found') || stdout.includes('No subtitles found')) {
+            console.warn(`No ${lang} subtitles found for ${videoId}.`);
+            return resolve({ stdout, stderr, noSubtitles: true });
+          }
+
           if (error) {
             if (stderr.includes('HTTP Error 429: Too Many Requests') && i < retries - 1) {
               console.warn(`yt-dlp hit 429 for ${videoId} (${lang}). Retrying...`);
               return reject(new Error('RATE_LIMITED'));
             }
-            if (stderr.includes('No subtitles found') || stderr.includes('No video formats found')) {
-              console.warn(`No ${lang} subtitles found for ${videoId}.`);
-              return resolve({ stdout, stderr, noSubtitles: true });
-            }
             return reject(new Error(`Command failed: ${error.message}\nStderr: ${stderr}`));
           }
+          
           resolve({ stdout, stderr, noSubtitles: false });
         });
       });
@@ -85,10 +86,10 @@ async function executeYtDlpCommand(command, videoId, lang, retries = 3, delayMs 
       throw error;
     }
   }
-  throw new Error(`yt-dlp failed after ${retries} attempts for ${videoId} (${lang}).`);
+  throw new Error(`yt-dlp failed after ${retries} attempts for ${videoId} (${lang}). Check for persistent rate-limiting.`);
 }
 
-app.get("/subtitles/:videoId", async (req, res) => {
+app.get("/api/subtitles/:videoId", async (req, res) => {
   const videoId = req.params.videoId;
   const lang = req.query.lang || 'en';
   let vttContent = '';

@@ -5,7 +5,10 @@
     "slug": "campfire-cooking",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753965482/campcook_kx0avb.webp",
     "level": "JLPT N5",
-    "subtitles": ["Japanese", "English"],
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
       {
         "number": 1,
@@ -75,69 +78,72 @@
     "title": "Mob Psycho I",
     "slug": "mob-psycho-100",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753965584/mob_pnwo7i.jpg",
-    "level": "JPLT N4",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N4",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        {
+      {
         "number": 1,
         "title": "Self-Proclaimed Psychic: Reigen Arataka ~And Mob~",
         "embedUrl": "https://youtu.be/phjbaDTEikE?list=PLwLSw1_eDZl1pvIv1fBd3oKkP3XEQpT_G"
-        },
-        {
+      },
+      {
         "number": 2,
         "title": "Doubts about Youth ~The Telepathy Club Appears~",
         "embedUrl": "https://youtu.be/W2tSIxRG7Mk?si=43_ilLEInfxFe1rs"
-        },
-        {
+      },
+      {
         "number": 3,
         "title": "An Invitation to a Meeting ~Simply Put, I Just Want to be Popular~",
         "embedUrl": "https://youtu.be/z6LzHsVjaZg?si=nfThEavvJpSJaZQX"
-        },
-        {
+      },
+      {
         "number": 4,
         "title": "Idiots Only Event ~Kin~",
         "embedUrl": "https://youtu.be/jlhd38UFBC8?list=PLwLSw1_eDZl1pvIv1fBd3oKkP3XEQpT_G"
-        },
-        {
+      },
+      {
         "number": 5,
         "title": "OCHIMUSHA ~Psychic Powers and Me~",
         "embedUrl": "https://youtu.be/GEFO7KFoWME?list=PLwLSw1_eDZl1pvIv1fBd3oKkP3XEQpT_G"
-        },
-        {
+      },
+      {
         "number": 6,
         "title": "Discord ~To Become One~",
         "embedUrl": "https://youtu.be/2GuCKYGAYDE?list=PLwLSw1_eDZl1pvIv1fBd3oKkP3XEQpT_G"
-        },
-        {
+      },
+      {
         "number": 7,
         "title": "Exaltation ~I've Obtained Loss~",
         "embedUrl": "https://youtu.be/Y1ECaKLLs2Y?list=PLwLSw1_eDZl1pvIv1fBd3oKkP3XEQpT_G"
-        },
-        {
+      },
+      {
         "number": 8,
         "title": "The Older Brother Bows ~Destructive Intent~",
         "embedUrl": "https://youtu.be/K-IqHw-f8HE?list=PLwLSw1_eDZl1pvIv1fBd3oKkP3XEQpT_G"
-        },
-        {
+      },
+      {
         "number": 9,
         "title": "Claw ~7th Division~",
         "embedUrl": "https://youtu.be/ZGkJP0YfEvo?list=PLwLSw1_eDZl1pvIv1fBd3oKkP3XEQpT_G"
-        },
-        {
+      },
+      {
         "number": 10,
         "title": "The Heinous Aura ~Mastermind~",
         "embedUrl": "https://youtu.be/IFHmcwwCXB8?list=PLwLSw1_eDZl1pvIv1fBd3oKkP3XEQpT_G"
-        },
-        {
+      },
+      {
         "number": 11,
         "title": "Master ~Leader~",
         "embedUrl": "https://youtu.be/iquQPhWd79k?list=PLwLSw1_eDZl1pvIv1fBd3oKkP3XEQpT_G"
-        },
-        {
+      },
+      {
         "number": 12,
         "title": "Mob and Reigen",
         "embedUrl": "https://youtu.be/GKsop6OYaqs?list=PLwLSw1_eDZl1pvIv1fBd3oKkP3XEQpT_G"
-        }
+      }
     ],
     "description": "Shigeo Kageyama, known as 'Mob', appears to be an unremarkable middle schooler — quiet, reserved, and socially awkward. But beneath his subdued exterior lies immense psychic power, capable of devastating destruction when his emotions reach a breaking point.\n\nDetermined to live a normal life, Mob suppresses his abilities while working under a self-proclaimed spirit medium, Reigen Arataka, whose questionable methods often mask surprising wisdom. As Mob is drawn into increasingly dangerous encounters with spirits, espers, and cults, the true conflict lies within: confronting his identity, his emotions, and what it means to be truly strong.\n\nMob Psycho 100 is a striking blend of supernatural action and emotional storytelling, brought to life with dynamic animation by Studio BONES. Season 1 introduces a compelling coming-of-age narrative that explores power, self-control, and personal growth — all wrapped in ONE’s signature offbeat humor and visual style.\n\nA must-watch for fans of character-driven stories and explosive animation, and an ideal entry point for learners interested in modern Japanese language and expressive dialogue."
   },
@@ -146,74 +152,77 @@
     "title": "Classroom of The Elite",
     "slug": "cote-s2",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753965666/cote_zrqcpp.jpg",
-    "level": "JPLT N5",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N5",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        {
+      {
         "number": 1,
         "title": "Remember to Keep a Clear Head in Difficult Times",
         "embedUrl": "https://youtu.be/wnVJ0LDypXo?list=PLwLSw1_eDZl2WCY-naAlexgVnI7CHlNNR"
-        },
-        {
+      },
+      {
         "number": 2,
         "title": "There Are Two Main Human Sins From Which All the Others Derive: Impatience and Indolence",
         "embedUrl": "https://youtu.be/6I9N8JlwF5Q?list=PLwLSw1_eDZl2WCY-naAlexgVnI7CHlNNR"
-        },
-        {
+      },
+      {
         "number": 3,
         "title": "The Greatest Souls Are Capable of the Greatest Vices as Well as the Greatest Virtues",
         "embedUrl": "https://youtu.be/MOcEs9vSqV4?list=PLwLSw1_eDZl2WCY-naAlexgVnI7CHlNNR"
-        },
-        {
+      },
+      {
         "number": 4,
         "title": "The Material Has to Be Created",
         "embedUrl": "https://youtu.be/MPDoSuwMFgU?list=PLwLSw1_eDZl2WCY-naAlexgVnI7CHlNNR"
-        },
-        {
+      },
+      {
         "number": 5,
         "title": "Every Failure Is a Step to Success",
         "embedUrl": "https://youtu.be/MCWsQzg_PKY?list=PLwLSw1_eDZl2WCY-naAlexgVnI7CHlNNR"
-        },
-        {
+      },
+      {
         "number": 6,
         "title": "Adversity Is the First Path to Truth",
         "embedUrl": "https://youtu.be/RR1EBkHCfqM?list=PLwLSw1_eDZl2WCY-naAlexgVnI7CHlNNR"
-        },
-        {
+      },
+      {
         "number": 7,
         "title": "Doubting Everything or Believing Everything Are Two Equally Convenient Solutions, Both of Which Exempt Us From Thinking",
         "embedUrl": "https://youtu.be/ZOd3c_s-OBk?list=PLwLSw1_eDZl2WCY-naAlexgVnI7CHlNNR"
-        },
-        {
+      },
+      {
         "number": 8,
         "title": "The Secret Wound Still Lives Within the Heart",
         "embedUrl": "https://youtu.be/WRafS1T1CcU?list=PLwLSw1_eDZl2WCY-naAlexgVnI7CHlNNR"
-        },
-        {
+      },
+      {
         "number": 9,
         "title": "To Not Mend the Fault One Has Made Is to Err Indeed",
         "embedUrl": "https://youtu.be/lmC_vw0fnVI?list=PLwLSw1_eDZl2WCY-naAlexgVnI7CHlNNR"
-        },
-        {
+      },
+      {
         "number": 10,
         "title": "The People, Deceived By a False Kind of Good, Often Desire Their Own Ruin",
         "embedUrl": "https://youtu.be/d3WFcgZSAOE?list=PLwLSw1_eDZl2WCY-naAlexgVnI7CHlNNR"
-        },
-        {
+      },
+      {
         "number": 11,
         "title": "A Man Who Cannot Command Himself Always Remains a Slave",
         "embedUrl": "https://youtu.be/BNu2tLTClZ8?list=PLwLSw1_eDZl2WCY-naAlexgVnI7CHlNNR"
-        },
-        {
+      },
+      {
         "number": 12,
         "title": "Thoughtless Power Crumbles by Its Own Mass",
         "embedUrl": "https://youtu.be/0RUSNybpB68?list=PLwLSw1_eDZl2WCY-naAlexgVnI7CHlNNR"
-        },
-        {
+      },
+      {
         "number": 13,
         "title": "The Worst Enemy You Can Meet Will Always Be Yourself",
         "embedUrl": "https://youtu.be/ZADXH92MBjU?list=PLwLSw1_eDZl2WCY-naAlexgVnI7CHlNNR"
-        }
+      }
     ],
     "description": "Following the high-stakes mind games of Season 1, Season 2 of Classroom of the Elite dives deeper into the power struggles within Tokyo Metropolitan Advanced Nurturing High School — a school where merit decides everything and manipulation is the currency of survival.\n\nAs Class D continues its climb up the school’s rigid hierarchy, Kiyotaka Ayanokouji’s role becomes increasingly pivotal. Beneath his quiet demeanor lies an unmatched intellect and a talent for control that begins to surface as the challenges grow more intense. The stakes rise with new special exams, shifting alliances, and students willing to betray, outwit, and dominate — all in the name of advancement.\n\nMore than just academic pressure, this season exposes psychological warfare, social engineering, and moral ambiguity, challenging every character to confront their beliefs and limits. \n\nWith its sharp dialogue, psychological depth, and strategic tension, Season 2 elevates the series’ core themes: meritocracy, manipulation, and the hidden cost of success. A perfect fit for learners drawn to contemporary, dialogue-heavy Japanese with elements of intrigue and philosophy."
   },
@@ -222,69 +231,72 @@
     "title": "Spy X Family",
     "slug": "spy-x-family",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753965846/spyx2_qraxin.webp",
-    "level": "JPLT N4",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N4",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        {
+      {
         "number": 1,
         "title": "Follow Mama and Papa",
         "embedUrl": "https://youtu.be/DXiywPWDnqA?list=PLwLSw1_eDZl29jJI3xLiviArPPoyC7EQp"
-        },
-        {
+      },
+      {
         "number": 2,
         "title": "Bond's Strategy to Stay Alive / Damian's Field Research Trip",
         "embedUrl": "https://youtu.be/Ja70oDrRlws?list=PLwLSw1_eDZl29jJI3xLiviArPPoyC7EQp"
-        },
-        {
+      },
+      {
         "number": 3,
         "title": "Mission and Family / The Elegant Bondman / The Heart of a Child / Waking Up",
         "embedUrl": "https://youtu.be/F-7zShHDXWA?list=PLwLSw1_eDZl29jJI3xLiviArPPoyC7EQp"
-        },
-        {
+      },
+      {
         "number": 4,
         "title": "The Pastry of Knowledge / The Informant's Great Romance Plan II",
         "embedUrl": "https://youtu.be/_sXq1pbDxNg?list=PLwLSw1_eDZl29jJI3xLiviArPPoyC7EQp"
-        },
-        {
+      },
+      {
         "number": 5,
         "title": "Plan to Cross the Border",
         "embedUrl": "https://youtu.be/ROBKU3AqW70?list=PLwLSw1_eDZl29jJI3xLiviArPPoyC7EQp"
-        },
-        {
+      },
+      {
         "number": 6,
         "title": "The Fearsome Luxury Cruise Ship",
         "embedUrl": "https://youtu.be/_7Ddnmy34Eo?list=PLwLSw1_eDZl29jJI3xLiviArPPoyC7EQp"
-        },
-        {
+      },
+      {
         "number": 7,
         "title": "Who Is This Mission For?",
         "embedUrl": "https://youtu.be/O3STlMz4tXk?si=qHHQv46gHjmCF73a"
-        },
-        {
+      },
+      {
         "number": 8,
         "title": "The Symphony Upon the Ship / Sis's Herb Tea",
         "embedUrl": "https://youtu.be/Xwfqz4VnhGQ?list=PLwLSw1_eDZl29jJI3xLiviArPPoyC7EQp"
-        },
-        {
+      },
+      {
         "number": 9,
         "title": "The Hand That Connects to the Future",
         "embedUrl": "https://youtu.be/9cmQauxwCBs?list=PLwLSw1_eDZl29jJI3xLiviArPPoyC7EQp"
-        },
-        {
+      },
+      {
         "number": 10,
         "title": "Enjoy the Resort to the Fullest / Bragging About Vacation",
         "embedUrl": "https://youtu.be/PFUecRko9d4?list=PLwLSw1_eDZl29jJI3xLiviArPPoyC7EQp"
-        },
-        {
+      },
+      {
         "number": 11,
         "title": "Berlint in Love / Nightfall's Daily Life",
         "embedUrl": "https://youtu.be/0S9QYZHNmwI?list=PLwLSw1_eDZl29jJI3xLiviArPPoyC7EQp"
-        },
-        {
+      },
+      {
         "number": 12,
         "title": "Part of the Family",
         "embedUrl": "https://youtu.be/PVsCgHAn8K0?list=PLwLSw1_eDZl29jJI3xLiviArPPoyC7EQp"
-        }
+      }
     ],
     "description": "Spy × Family returns with its second season, blending espionage, slice-of-life charm, and heartwarming comedy in a world where peace depends on the most unlikely family.\n\nLoid Forger — elite spy code-named 'Twilight' — continues his undercover mission to maintain political stability by posing as a family man. But his fabricated family remains anything but ordinary: Yor, his 'wife', is a deadly assassin; Anya, his 'daughter', is a telepath; and Bond, their dog, can see the future. None of them know the full truth — and that’s what keeps the operation afloat.\n\nSeason 2 explores deeper relationships, higher-stakes operations, and even more chaotic misunderstandings as the Forgers face elegant school galas, cruise ship conspiracies, and new threats to their secret lives. Underneath the missions, it’s a story about growing trust, emotional connection, and the fragile illusion of normalcy.\n\nWith crisp, modern Japanese, natural family dialogue, and a mix of formal and casual speech patterns, Spy × Family is an ideal pick for learners at the N5 level looking to absorb language in a lively, character-rich setting."
   },
@@ -293,249 +305,252 @@
     "title": "Jojo's bizarre Adventure - Stardust Crusaders",
     "slug": "jojo",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753965994/jojo_kvy9zy.webp",
-    "level": "JPLT N2",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N2",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        {
-  "number": 1,
-  "title": "A Man Possessed by an Evil Spirit",
-  "embedUrl": "https://youtu.be/l26Sc1vO1ho?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 2,
-  "title": "Who Will Be the Judge!?",
-  "embedUrl": "https://youtu.be/sN5L2pxkBwI?si=m_HUB4ZJG5SCmMgi"
-},
-{
-  "number": 3,
-  "title": "The Curse of Dio",
-  "embedUrl": "https://youtu.be/fsLeY6KQ-2c?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 4,
-  "title": "Tower of Gray",
-  "embedUrl": "https://youtu.be/azao2Xx9D9o?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 5,
-  "title": "Silver Chariot",
-  "embedUrl": "https://youtu.be/VbqjraD16Ic?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 6,
-  "title": "Dark Blue Moon",
-  "embedUrl": "https://youtu.be/-wZROxbeeuE?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 7,
-  "title": "Strength",
-  "embedUrl": "https://youtu.be/ryXfVUxHY2A?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 8,
-  "title": "Devil",
-  "embedUrl": "https://youtu.be/Yij2ySqV1Rc?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 9,
-  "title": "Yellow Temperance",
-  "embedUrl": "https://youtu.be/IKhh8lzDQ0E?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 10,
-  "title": "The Emperor and the Hanged Man – Part 1",
-  "embedUrl": "https://youtu.be/2G_MgJLgdiU?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 11,
-  "title": "The Emperor and the Hanged Man – Part 2",
-  "embedUrl": "https://youtu.be/Cq6_pQIhu7k?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 12,
-  "title": "The Empress",
-  "embedUrl": "https://youtu.be/vi8FIGuM7iY?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 13,
-  "title": "Wheel of Fortune",
-  "embedUrl": "https://youtu.be/h0wBVZxO7f4?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 14,
-  "title": "Justice – Part 1",
-  "embedUrl": "https://youtu.be/zlJ_vu1g65A?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 15,
-  "title": "Justice – Part 2",
-  "embedUrl": "https://youtu.be/JnBRJTYTx00?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 16,
-  "title": "The Lovers – Part 1",
-  "embedUrl": "https://youtu.be/G9Jrvrj5U_g?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 17,
-  "title": "The Lovers – Part 2",
-  "embedUrl": "https://youtu.be/gDLCnrOIc0E?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 18,
-  "title": "The Sun",
-  "embedUrl": "https://youtu.be/n5dzJkoMC08?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 19,
-  "title": "Death 13 – Part 1",
-  "embedUrl": "https://youtu.be/myMHWQ445Qs?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 20,
-  "title": "Death 13 – Part 2",
-  "embedUrl": "https://youtu.be/6Sc7H5R4xZ4?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 21,
-  "title": "Judgement – Part 1",
-  "embedUrl": "https://youtu.be/hnn1cmZRvxo?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 22,
-  "title": "Judgement – Part 2",
-  "embedUrl": "https://youtu.be/ojDFqEJUepc?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 23,
-  "title": "High Priestess – Part 1",
-  "embedUrl": "https://youtu.be/hNH8wTJC1cw?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 24,
-  "title": "High Priestess – Part 2",
-  "embedUrl": "https://youtu.be/QsSM4WMIvRU?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 25,
-  "title": "Iggy the Fool and Geb’s N’Doul – Part 1",
-  "embedUrl": "https://youtu.be/zcfRxpDOtns?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 26,
-  "title": "Iggy the Fool and Geb’s N’Doul – Part 2",
-  "embedUrl": "https://youtu.be/nEMwJCe0dvw?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 27,
-  "title": "Khnum’s Oingo and Thoth’s Boingo",
-  "embedUrl": "https://youtu.be/ZEvOE_-0j_8?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 28,
-  "title": "Anubis – Part 1",
-  "embedUrl": "https://youtu.be/YkOoAE850NA?si=c_EW3PRFloZagv9-"
-},
-{
-  "number": 29,
-  "title": "Anubis – Part 2",
-  "embedUrl": "https://youtu.be/KOAiupRqrw0?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 30,
-  "title": "Bastet’s Mariah – Part 1",
-  "embedUrl": "https://youtu.be/ztirKxuhxu0?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 31,
-  "title": "Bastet’s Mariah – Part 2",
-  "embedUrl": "https://youtu.be/_JiPsOztHaA?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 32,
-  "title": "Set’s Alessi – Part 1",
-  "embedUrl": "https://youtu.be/NrTIVvljAEc?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 33,
-  "title": "Set’s Alessi – Part 2",
-  "embedUrl": "https://youtu.be/-1gaUbf7kZU?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 34,
-  "title": "D’Arby the Gambler – Part 1",
-  "embedUrl": "https://youtu.be/LrItqRVJaUU?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 35,
-  "title": "D’Arby the Gambler – Part 2",
-  "embedUrl": "https://youtu.be/hLK54yGWQpI?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 36,
-  "title": "Hol Horse and Boingo – Part 1",
-  "embedUrl": "https://youtu.be/IWiHYoppntk?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 37,
-  "title": "Hol Horse and Boingo – Part 2",
-  "embedUrl": "https://youtu.be/OkcVWWQrQv0?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 38,
-  "title": "The Guardian of Hell, Pet Shop – Part 1",
-  "embedUrl": "https://youtu.be/qeQhn5cxeuo?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 39,
-  "title": "The Guardian of Hell, Pet Shop – Part 2",
-  "embedUrl": "https://youtu.be/Amlc2WP1zY8?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 40,
-  "title": "D’Arby the Player – Part 1",
-  "embedUrl": "https://youtu.be/xvfOMAHJcpk?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 41,
-  "title": "D’Arby the Player – Part 2",
-  "embedUrl": "https://youtu.be/eOulw3cRbn8?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 42,
-  "title": "The Miasma of the Void, Vanilla Ice – Part 1",
-  "embedUrl": "https://youtu.be/ntww4ql8hU4?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 43,
-  "title": "The Miasma of the Void, Vanilla Ice – Part 2",
-  "embedUrl": "https://youtu.be/gg93TrqYxDI?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 44,
-  "title": "The Miasma of the Void, Vanilla Ice – Part 3",
-  "embedUrl": "https://youtu.be/99WfbMU--Uc?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 45,
-  "title": "Dio’s World – Part 1",
-  "embedUrl": "https://youtu.be/1feQeG3e40g?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 46,
-  "title": "Dio’s World – Part 2",
-  "embedUrl": "https://youtu.be/p2pk50islJE?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 47,
-  "title": "Dio’s World – Part 3",
-  "embedUrl": "https://youtu.be/vmAnkDN8zDI?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-},
-{
-  "number": 48,
-  "title": "A Long Journey – Goodbye, My Friends",
-  "embedUrl": "https://youtu.be/apTcEcrTyp8?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
-}
+      {
+        "number": 1,
+        "title": "A Man Possessed by an Evil Spirit",
+        "embedUrl": "https://youtu.be/l26Sc1vO1ho?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 2,
+        "title": "Who Will Be the Judge!?",
+        "embedUrl": "https://youtu.be/sN5L2pxkBwI?si=m_HUB4ZJG5SCmMgi"
+      },
+      {
+        "number": 3,
+        "title": "The Curse of Dio",
+        "embedUrl": "https://youtu.be/fsLeY6KQ-2c?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 4,
+        "title": "Tower of Gray",
+        "embedUrl": "https://youtu.be/azao2Xx9D9o?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 5,
+        "title": "Silver Chariot",
+        "embedUrl": "https://youtu.be/VbqjraD16Ic?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 6,
+        "title": "Dark Blue Moon",
+        "embedUrl": "https://youtu.be/-wZROxbeeuE?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 7,
+        "title": "Strength",
+        "embedUrl": "https://youtu.be/ryXfVUxHY2A?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 8,
+        "title": "Devil",
+        "embedUrl": "https://youtu.be/Yij2ySqV1Rc?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 9,
+        "title": "Yellow Temperance",
+        "embedUrl": "https://youtu.be/IKhh8lzDQ0E?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 10,
+        "title": "The Emperor and the Hanged Man – Part 1",
+        "embedUrl": "https://youtu.be/2G_MgJLgdiU?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 11,
+        "title": "The Emperor and the Hanged Man – Part 2",
+        "embedUrl": "https://youtu.be/Cq6_pQIhu7k?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 12,
+        "title": "The Empress",
+        "embedUrl": "https://youtu.be/vi8FIGuM7iY?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 13,
+        "title": "Wheel of Fortune",
+        "embedUrl": "https://youtu.be/h0wBVZxO7f4?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 14,
+        "title": "Justice – Part 1",
+        "embedUrl": "https://youtu.be/zlJ_vu1g65A?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 15,
+        "title": "Justice – Part 2",
+        "embedUrl": "https://youtu.be/JnBRJTYTx00?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 16,
+        "title": "The Lovers – Part 1",
+        "embedUrl": "https://youtu.be/G9Jrvrj5U_g?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 17,
+        "title": "The Lovers – Part 2",
+        "embedUrl": "https://youtu.be/gDLCnrOIc0E?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 18,
+        "title": "The Sun",
+        "embedUrl": "https://youtu.be/n5dzJkoMC08?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 19,
+        "title": "Death 13 – Part 1",
+        "embedUrl": "https://youtu.be/myMHWQ445Qs?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 20,
+        "title": "Death 13 – Part 2",
+        "embedUrl": "https://youtu.be/6Sc7H5R4xZ4?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 21,
+        "title": "Judgement – Part 1",
+        "embedUrl": "https://youtu.be/hnn1cmZRvxo?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 22,
+        "title": "Judgement – Part 2",
+        "embedUrl": "https://youtu.be/ojDFqEJUepc?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 23,
+        "title": "High Priestess – Part 1",
+        "embedUrl": "https://youtu.be/hNH8wTJC1cw?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 24,
+        "title": "High Priestess – Part 2",
+        "embedUrl": "https://youtu.be/QsSM4WMIvRU?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 25,
+        "title": "Iggy the Fool and Geb’s N’Doul – Part 1",
+        "embedUrl": "https://youtu.be/zcfRxpDOtns?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 26,
+        "title": "Iggy the Fool and Geb’s N’Doul – Part 2",
+        "embedUrl": "https://youtu.be/nEMwJCe0dvw?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 27,
+        "title": "Khnum’s Oingo and Thoth’s Boingo",
+        "embedUrl": "https://youtu.be/ZEvOE_-0j_8?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 28,
+        "title": "Anubis – Part 1",
+        "embedUrl": "https://youtu.be/YkOoAE850NA?si=c_EW3PRFloZagv9-"
+      },
+      {
+        "number": 29,
+        "title": "Anubis – Part 2",
+        "embedUrl": "https://youtu.be/KOAiupRqrw0?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 30,
+        "title": "Bastet’s Mariah – Part 1",
+        "embedUrl": "https://youtu.be/ztirKxuhxu0?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 31,
+        "title": "Bastet’s Mariah – Part 2",
+        "embedUrl": "https://youtu.be/_JiPsOztHaA?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 32,
+        "title": "Set’s Alessi – Part 1",
+        "embedUrl": "https://youtu.be/NrTIVvljAEc?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 33,
+        "title": "Set’s Alessi – Part 2",
+        "embedUrl": "https://youtu.be/-1gaUbf7kZU?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 34,
+        "title": "D’Arby the Gambler – Part 1",
+        "embedUrl": "https://youtu.be/LrItqRVJaUU?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 35,
+        "title": "D’Arby the Gambler – Part 2",
+        "embedUrl": "https://youtu.be/hLK54yGWQpI?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 36,
+        "title": "Hol Horse and Boingo – Part 1",
+        "embedUrl": "https://youtu.be/IWiHYoppntk?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 37,
+        "title": "Hol Horse and Boingo – Part 2",
+        "embedUrl": "https://youtu.be/OkcVWWQrQv0?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 38,
+        "title": "The Guardian of Hell, Pet Shop – Part 1",
+        "embedUrl": "https://youtu.be/qeQhn5cxeuo?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 39,
+        "title": "The Guardian of Hell, Pet Shop – Part 2",
+        "embedUrl": "https://youtu.be/Amlc2WP1zY8?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 40,
+        "title": "D’Arby the Player – Part 1",
+        "embedUrl": "https://youtu.be/xvfOMAHJcpk?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 41,
+        "title": "D’Arby the Player – Part 2",
+        "embedUrl": "https://youtu.be/eOulw3cRbn8?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 42,
+        "title": "The Miasma of the Void, Vanilla Ice – Part 1",
+        "embedUrl": "https://youtu.be/ntww4ql8hU4?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 43,
+        "title": "The Miasma of the Void, Vanilla Ice – Part 2",
+        "embedUrl": "https://youtu.be/gg93TrqYxDI?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 44,
+        "title": "The Miasma of the Void, Vanilla Ice – Part 3",
+        "embedUrl": "https://youtu.be/99WfbMU--Uc?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 45,
+        "title": "Dio’s World – Part 1",
+        "embedUrl": "https://youtu.be/1feQeG3e40g?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 46,
+        "title": "Dio’s World – Part 2",
+        "embedUrl": "https://youtu.be/p2pk50islJE?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 47,
+        "title": "Dio’s World – Part 3",
+        "embedUrl": "https://youtu.be/vmAnkDN8zDI?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      },
+      {
+        "number": 48,
+        "title": "A Long Journey – Goodbye, My Friends",
+        "embedUrl": "https://youtu.be/apTcEcrTyp8?list=PLwLSw1_eDZl0czPmhfn0WI_a-aSqFEqTf"
+      }
     ],
     "description": "The legacy of the Joestar bloodline reaches new heights in *Stardust Crusaders*, the iconic third arc of JoJo’s Bizarre Adventure. Set in the late 1980s, the story follows Jotaro Kujo — a stoic Japanese teenager with a powerful psychic manifestation known as a 'Stand'. When the long-dormant evil of Dio Brando reawakens in Egypt, the lives of the Joestar family are once again thrown into chaos.\n\nTo save his mother, whose life is bound to Dio’s return, Jotaro embarks on a globe-trotting journey from Japan to Egypt alongside a team of fellow Stand users, each wielding a unique, bizarre power. Their path is filled with assassins, traps, and supernatural duels that test not just strength, but cunning and will.\n\nStardust Crusaders defined the modern JoJo formula: intense 1v1 Stand battles, vibrant personalities, surreal visuals, and legendary poses. It’s both a road trip adventure and a high-stakes war against destiny — with style, swagger, and unpredictability in every episode.\n\nIdeal for learners seeking exposure to modern Japanese with a mix of dramatic, comedic, and battle-focused dialogue. JLPT N5-friendly, but layered with rich cultural references, multilingual accents, and unforgettable characters."
   },
@@ -544,129 +559,132 @@
     "title": "Tokyo Revengers",
     "slug": "tokyo-revengers",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753966177/tokyorev_oapu20.webp",
-    "level": "JPLT N3",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N3",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        {
-  "number": 1,
-  "title": "Reborn",
-  "embedUrl": "https://youtu.be/yU5F-hHpBuk?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 2,
-  "title": "Resist",
-  "embedUrl": "https://youtu.be/1g3yfAJbHdc?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 3,
-  "title": "Resolve",
-  "embedUrl": "https://youtu.be/neQyZyIo6Qg?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 4,
-  "title": "Return",
-  "embedUrl": "https://youtu.be/4mSPh41BO0k?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 5,
-  "title": "Releap",
-  "embedUrl": "https://youtu.be/8gRZ5N1iOfM?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 6,
-  "title": "Regret",
-  "embedUrl": "https://youtu.be/XLLgmdzLv8g?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 7,
-  "title": "Revive",
-  "embedUrl": "https://youtu.be/a-lRR3CujvU?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 8,
-  "title": "Rechange",
-  "embedUrl": "https://youtu.be/_CU7OGUVcZ4?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 9,
-  "title": "Revolt",
-  "embedUrl": "https://youtu.be/yyUSigZFMsM?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 10,
-  "title": "Rerise",
-  "embedUrl": "https://youtu.be/ko6jhnoeu0Q?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 11,
-  "title": "Respect",
-  "embedUrl": "https://youtu.be/SpJxZhxZqq4?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 12,
-  "title": "Revenge",
-  "embedUrl": "https://youtu.be/L44QgkVZMkk?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 13,
-  "title": "Odds and Ends",
-  "embedUrl": "https://youtu.be/FPmZIQvo5Jk?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 14,
-  "title": "Break Up",
-  "embedUrl": "https://youtu.be/L2gkMiIiAq4?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 15,
-  "title": "No Pain, No Gain",
-  "embedUrl": "https://youtu.be/8uNC3a-v5jc?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 16,
-  "title": "Once Upon A Time",
-  "embedUrl": "https://youtu.be/ZQcEwk2cJKo?si=-xmMV1xiZJ-AB5Du"
-},
-{
-  "number": 17,
-  "title": "No Way",
-  "embedUrl": "https://youtu.be/H9VRJp9bqhU?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 18,
-  "title": "Open Fire",
-  "embedUrl": "https://youtu.be/FmZOteBg6JM?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 19,
-  "title": "Turn Around",
-  "embedUrl": "https://youtu.be/ny0XA-y6JXk?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 20,
-  "title": "Dead Or Alive",
-  "embedUrl": "https://youtu.be/07uOZ9tvx-8?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 21,
-  "title": "One and Only",
-  "embedUrl": "https://youtu.be/nAoS-hHx_bA?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 22,
-  "title": "One for All",
-  "embedUrl": "https://youtu.be/Qb0q3u60PiI?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 23,
-  "title": "End of War",
-  "embedUrl": "https://youtu.be/pDVZIzEDuIA?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-},
-{
-  "number": 24,
-  "title": "A Cry Baby",
-  "embedUrl": "https://youtu.be/W1Hudv3z3Rk?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
-}
+      {
+        "number": 1,
+        "title": "Reborn",
+        "embedUrl": "https://youtu.be/yU5F-hHpBuk?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 2,
+        "title": "Resist",
+        "embedUrl": "https://youtu.be/1g3yfAJbHdc?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 3,
+        "title": "Resolve",
+        "embedUrl": "https://youtu.be/neQyZyIo6Qg?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 4,
+        "title": "Return",
+        "embedUrl": "https://youtu.be/4mSPh41BO0k?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 5,
+        "title": "Releap",
+        "embedUrl": "https://youtu.be/8gRZ5N1iOfM?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 6,
+        "title": "Regret",
+        "embedUrl": "https://youtu.be/XLLgmdzLv8g?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 7,
+        "title": "Revive",
+        "embedUrl": "https://youtu.be/a-lRR3CujvU?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 8,
+        "title": "Rechange",
+        "embedUrl": "https://youtu.be/_CU7OGUVcZ4?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 9,
+        "title": "Revolt",
+        "embedUrl": "https://youtu.be/yyUSigZFMsM?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 10,
+        "title": "Rerise",
+        "embedUrl": "https://youtu.be/ko6jhnoeu0Q?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 11,
+        "title": "Respect",
+        "embedUrl": "https://youtu.be/SpJxZhxZqq4?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 12,
+        "title": "Revenge",
+        "embedUrl": "https://youtu.be/L44QgkVZMkk?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 13,
+        "title": "Odds and Ends",
+        "embedUrl": "https://youtu.be/FPmZIQvo5Jk?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 14,
+        "title": "Break Up",
+        "embedUrl": "https://youtu.be/L2gkMiIiAq4?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 15,
+        "title": "No Pain, No Gain",
+        "embedUrl": "https://youtu.be/8uNC3a-v5jc?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 16,
+        "title": "Once Upon A Time",
+        "embedUrl": "https://youtu.be/ZQcEwk2cJKo?si=-xmMV1xiZJ-AB5Du"
+      },
+      {
+        "number": 17,
+        "title": "No Way",
+        "embedUrl": "https://youtu.be/H9VRJp9bqhU?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 18,
+        "title": "Open Fire",
+        "embedUrl": "https://youtu.be/FmZOteBg6JM?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 19,
+        "title": "Turn Around",
+        "embedUrl": "https://youtu.be/ny0XA-y6JXk?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 20,
+        "title": "Dead Or Alive",
+        "embedUrl": "https://youtu.be/07uOZ9tvx-8?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 21,
+        "title": "One and Only",
+        "embedUrl": "https://youtu.be/nAoS-hHx_bA?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 22,
+        "title": "One for All",
+        "embedUrl": "https://youtu.be/Qb0q3u60PiI?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 23,
+        "title": "End of War",
+        "embedUrl": "https://youtu.be/pDVZIzEDuIA?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      },
+      {
+        "number": 24,
+        "title": "A Cry Baby",
+        "embedUrl": "https://youtu.be/W1Hudv3z3Rk?list=PLwLSw1_eDZl3F9AGKbC7iRIGeU2XosgTy"
+      }
     ],
     "description": "When 26-year-old Takemichi Hanagaki learns that his former middle school girlfriend has been murdered by a violent gang, his life — already at rock bottom — takes an unexpected turn. Pushed onto the train tracks, he awakens twelve years in the past. Now back in his teenage body, he’s given a second chance: rewrite history, infiltrate the Tokyo Manji Gang, and save the lives of those he once failed.\n\nSeason 1 of Tokyo Revengers is a gritty, emotionally charged blend of time-travel, gang conflict, and personal redemption. Takemichi isn’t strong, he’s not smart — but what he lacks in power, he makes up for with heart. As he dives deeper into the world of delinquents, shifting timelines, and escalating violence, he must confront his own cowardice and fight to protect the people he loves.\n\nPacked with emotional dialogue, intense confrontations, and raw adolescent energy, this season lays the foundation for one of the most talked-about character arcs in recent anime. Perfect for learners looking to absorb everyday speech, youth slang, and emotionally expressive Japanese in a modern, urban setting."
   },
@@ -675,134 +693,137 @@
     "title": "That Time I Got Reincarnated as a Slime",
     "slug": "reincarnte-slime",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753966298/slime_bumbsz.webp",
-    "level": "JPLT N3",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N3",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        {
-  "number": 1,
-  "title": "The Storm Dragon, Veldora",
-  "embedUrl": "https://youtu.be/RoAPuxzfad4?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 2,
-  "title": "Meeting the Goblins",
-  "embedUrl": "https://youtu.be/cXUGI0CVG4c?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 3,
-  "title": "Battle at the Goblin Village",
-  "embedUrl": "https://youtu.be/Kgcp9mzgtIM?si=ZZefaNg7POMTCUqL"
-},
-{
-  "number": 4,
-  "title": "In the Kingdom of the Dwarves",
-  "embedUrl": "https://youtu.be/d6fm4-ym830?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 5,
-  "title": "Hero King, Gazel Dwargo",
-  "embedUrl": "https://youtu.be/bvi1YXJ4VnY?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 6,
-  "title": "Shizu",
-  "embedUrl": "https://youtu.be/4pKINUmfZJA?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 7,
-  "title": "Conqueror of Flames",
-  "embedUrl": "https://youtu.be/n1KBzzkoBTs?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 8,
-  "title": "Inherited Will",
-  "embedUrl": "https://youtu.be/MNrRLkYF72k?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 9,
-  "title": "Attack of the Ogres",
-  "embedUrl": "https://youtu.be/JgnoDDu_r1Y?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 10,
-  "title": "The Orc Lord",
-  "embedUrl": "https://youtu.be/5rQmjbvPBFA?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 11,
-  "title": "Gabiru is Here!",
-  "embedUrl": "https://youtu.be/Pjh1vZbU3Qo?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 12,
-  "title": "The Gears Spin Out of Control",
-  "embedUrl": "https://youtu.be/b-quVKqEJao?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 13,
-  "title": "The Great Clash",
-  "embedUrl": "https://youtu.be/_RUSK9Bm8rA?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 14,
-  "title": "The One Who Devours All",
-  "embedUrl": "https://youtu.be/CT7BSUHbgCM?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 15,
-  "title": "The Jura Forest Alliance",
-  "embedUrl": "https://youtu.be/CvAROJQa1Dc?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 16,
-  "title": "Demon Lord Milim Attacks",
-  "embedUrl": "https://youtu.be/bw-M3s_PlkE?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 17,
-  "title": "The Gathering",
-  "embedUrl": "https://youtu.be/aeH3wroVO88?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 18,
-  "title": "Evil Creeps Closer",
-  "embedUrl": "https://youtu.be/1MKnV0s0y6c?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 19,
-  "title": "Charybdis",
-  "embedUrl": "https://youtu.be/CYrlzKwWeLM?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 20,
-  "title": "Yuuki Kagurazaka",
-  "embedUrl": "https://youtu.be/xzQPnQLufpc?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 21,
-  "title": "Shizu san's Students",
-  "embedUrl": "https://youtu.be/BSbyBneKLwQ?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 22,
-  "title": "Conquering the Labyrinth",
-  "embedUrl": "https://youtu.be/YziYg9q7e0E?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 23,
-  "title": "Saved Souls",
-  "embedUrl": "https://youtu.be/oPhX-OfGCDI?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 24,
-  "title": "Black and the Mask",
-  "embedUrl": "https://youtu.be/DLA1Bn8dFNc?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-},
-{
-  "number": 24.5,
-  "title": "Tales: Veldora's Journal",
-  "embedUrl": "https://youtu.be/opibs265fJ0?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
-}
+      {
+        "number": 1,
+        "title": "The Storm Dragon, Veldora",
+        "embedUrl": "https://youtu.be/RoAPuxzfad4?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 2,
+        "title": "Meeting the Goblins",
+        "embedUrl": "https://youtu.be/cXUGI0CVG4c?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 3,
+        "title": "Battle at the Goblin Village",
+        "embedUrl": "https://youtu.be/Kgcp9mzgtIM?si=ZZefaNg7POMTCUqL"
+      },
+      {
+        "number": 4,
+        "title": "In the Kingdom of the Dwarves",
+        "embedUrl": "https://youtu.be/d6fm4-ym830?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 5,
+        "title": "Hero King, Gazel Dwargo",
+        "embedUrl": "https://youtu.be/bvi1YXJ4VnY?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 6,
+        "title": "Shizu",
+        "embedUrl": "https://youtu.be/4pKINUmfZJA?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 7,
+        "title": "Conqueror of Flames",
+        "embedUrl": "https://youtu.be/n1KBzzkoBTs?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 8,
+        "title": "Inherited Will",
+        "embedUrl": "https://youtu.be/MNrRLkYF72k?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 9,
+        "title": "Attack of the Ogres",
+        "embedUrl": "https://youtu.be/JgnoDDu_r1Y?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 10,
+        "title": "The Orc Lord",
+        "embedUrl": "https://youtu.be/5rQmjbvPBFA?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 11,
+        "title": "Gabiru is Here!",
+        "embedUrl": "https://youtu.be/Pjh1vZbU3Qo?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 12,
+        "title": "The Gears Spin Out of Control",
+        "embedUrl": "https://youtu.be/b-quVKqEJao?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 13,
+        "title": "The Great Clash",
+        "embedUrl": "https://youtu.be/_RUSK9Bm8rA?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 14,
+        "title": "The One Who Devours All",
+        "embedUrl": "https://youtu.be/CT7BSUHbgCM?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 15,
+        "title": "The Jura Forest Alliance",
+        "embedUrl": "https://youtu.be/CvAROJQa1Dc?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 16,
+        "title": "Demon Lord Milim Attacks",
+        "embedUrl": "https://youtu.be/bw-M3s_PlkE?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 17,
+        "title": "The Gathering",
+        "embedUrl": "https://youtu.be/aeH3wroVO88?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 18,
+        "title": "Evil Creeps Closer",
+        "embedUrl": "https://youtu.be/1MKnV0s0y6c?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 19,
+        "title": "Charybdis",
+        "embedUrl": "https://youtu.be/CYrlzKwWeLM?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 20,
+        "title": "Yuuki Kagurazaka",
+        "embedUrl": "https://youtu.be/xzQPnQLufpc?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 21,
+        "title": "Shizu san's Students",
+        "embedUrl": "https://youtu.be/BSbyBneKLwQ?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 22,
+        "title": "Conquering the Labyrinth",
+        "embedUrl": "https://youtu.be/YziYg9q7e0E?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 23,
+        "title": "Saved Souls",
+        "embedUrl": "https://youtu.be/oPhX-OfGCDI?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 24,
+        "title": "Black and the Mask",
+        "embedUrl": "https://youtu.be/DLA1Bn8dFNc?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      },
+      {
+        "number": 24,
+        "title": "Tales: Veldora's Journal",
+        "embedUrl": "https://youtu.be/opibs265fJ0?list=PLwLSw1_eDZl0eZktsDv3cu78EC0l2qYKI"
+      }
     ],
     "description": "After being killed in a random stabbing incident, 37-year-old salaryman Satoru Mikami awakens in a fantasy world — as a slime. But this is no ordinary slime. With the ability to absorb powers, analyze abilities, and evolve rapidly, he adopts the name *Rimuru Tempest* and sets out to build a world where all races — human, monster, or otherwise — can coexist in peace.\n\nWhat begins as a lowly rebirth quickly turns into a kingdom-building saga. Rimuru’s journey takes him from cave-dwelling anonymity to becoming a central figure in world politics, making allies of dragons, ogres, goblins, and even demons. With kindness as his core principle and overwhelming power as his shield, he reshapes the fate of an entire continent.\n\nSeason 1 blends action, diplomacy, and fantasy worldbuilding with light humor and strong emotional arcs. It’s an ideal entry point for learners — packed with everyday vocabulary, clear fantasy terms, and both casual and formal speech patterns — all delivered through accessible, engaging dialogue."
   },
@@ -811,69 +832,72 @@
     "title": "Dan Da Dan",
     "slug": "dandadan",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753967575/dandadan_ssewda.webp",
-    "level": "JPLT N3",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N3",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        {
-  "number": 1,
-  "title": "That's How Love Starts, Ya Know!",
-  "embedUrl": "https://youtu.be/D7Ra2B2Sl10?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
-},
-{
-  "number": 2,
-  "title": "That's a Space Alien, Ain't It?!",
-  "embedUrl": "https://youtu.be/y0qB0PPsMW8?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
-},
-{
-  "number": 3,
-  "title": "It's a Granny vs. Granny Clash!",
-  "embedUrl": "https://youtu.be/LAPNkWfljdk?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
-},
-{
-  "number": 4,
-  "title": "Kicking Turbo Granny's Ass",
-  "embedUrl": "https://youtu.be/OauzaFeIgVI?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
-},
-{
-  "number": 5,
-  "title": "Like, Where Are Your Balls?",
-  "embedUrl": "https://youtu.be/BX9MGT2vykA?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
-},
-{
-  "number": 6,
-  "title": "A Dangerous Woman Arrives",
-  "embedUrl": "https://youtu.be/1TzyFy7x43k?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
-},
-{
-  "number": 7,
-  "title": "To a Kinder World",
-  "embedUrl": "https://youtu.be/lY9aiNGwc_c?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
-},
-{
-  "number": 8,
-  "title": "I've Got This Funny Feeling",
-  "embedUrl": "https://youtu.be/EZa7EjkEo-Q?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
-},
-{
-  "number": 9,
-  "title": "Merge! Serpo Dover Demon Nessie!",
-  "embedUrl": "https://youtu.be/aEN0olIlEWo?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
-},
-{
-  "number": 10,
-  "title": "Have You Ever Seen a Cattle Mutilation?",
-  "embedUrl": "https://youtu.be/IkEG7-O-uNs?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
-},
-{
-  "number": 11,
-  "title": "First Love",
-  "embedUrl": "https://youtu.be/Ioh8teAHAhU?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
-},
-{
-  "number": 12,
-  "title": "Let's Go to the Cursed House",
-  "embedUrl": "https://youtu.be/DkuGyy02igA?si=i6usV_QrY8kzp_C2"
-}
+      {
+        "number": 1,
+        "title": "That's How Love Starts, Ya Know!",
+        "embedUrl": "https://youtu.be/D7Ra2B2Sl10?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
+      },
+      {
+        "number": 2,
+        "title": "That's a Space Alien, Ain't It?!",
+        "embedUrl": "https://youtu.be/y0qB0PPsMW8?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
+      },
+      {
+        "number": 3,
+        "title": "It's a Granny vs. Granny Clash!",
+        "embedUrl": "https://youtu.be/LAPNkWfljdk?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
+      },
+      {
+        "number": 4,
+        "title": "Kicking Turbo Granny's Ass",
+        "embedUrl": "https://youtu.be/OauzaFeIgVI?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
+      },
+      {
+        "number": 5,
+        "title": "Like, Where Are Your Balls?",
+        "embedUrl": "https://youtu.be/BX9MGT2vykA?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
+      },
+      {
+        "number": 6,
+        "title": "A Dangerous Woman Arrives",
+        "embedUrl": "https://youtu.be/1TzyFy7x43k?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
+      },
+      {
+        "number": 7,
+        "title": "To a Kinder World",
+        "embedUrl": "https://youtu.be/lY9aiNGwc_c?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
+      },
+      {
+        "number": 8,
+        "title": "I've Got This Funny Feeling",
+        "embedUrl": "https://youtu.be/EZa7EjkEo-Q?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
+      },
+      {
+        "number": 9,
+        "title": "Merge! Serpo Dover Demon Nessie!",
+        "embedUrl": "https://youtu.be/aEN0olIlEWo?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
+      },
+      {
+        "number": 10,
+        "title": "Have You Ever Seen a Cattle Mutilation?",
+        "embedUrl": "https://youtu.be/IkEG7-O-uNs?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
+      },
+      {
+        "number": 11,
+        "title": "First Love",
+        "embedUrl": "https://youtu.be/Ioh8teAHAhU?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD"
+      },
+      {
+        "number": 12,
+        "title": "Let's Go to the Cursed House",
+        "embedUrl": "https://youtu.be/DkuGyy02igA?si=i6usV_QrY8kzp_C2"
+      }
     ],
     "description": "High schooler Momo Ayase believes in ghosts — but not aliens. Her classmate Okarun believes in aliens — but not ghosts. When both try to prove each other wrong, they each encounter exactly what the other believed in. What follows is a nonstop chain of supernatural chaos: alien abductions, cursed spirits, exorcist grandmas, time-bending yokai battles, and a growing bond between two teens caught between worlds.\n\n*Dandadan* is a genre-defying explosion of sci-fi, horror, action, and absurd comedy — with striking animation and unpredictable energy. It’s a love letter to everything weird: turbo-powered testicle demons, telekinetic showdowns, and genuine teenage awkwardness all coexist in a story that moves fast but never loses heart.\n\nBeneath the madness is a story about self-acceptance, trauma, and the quiet ways we protect each other. With sharp, expressive dialogue and frequent shifts between formal, slang, and emotional speech, Dandadan offers excellent listening practice for JLPT N5 learners who want to level up fast — and have a blast doing it."
   },
@@ -882,69 +906,72 @@
     "title": "School Babysitters",
     "slug": "school-babysitters",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753966646/school_wntdm7.webp",
-    "level": "JPLT N5",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N5",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        {
-  "number": 1,
-  "title": "Episode 1",
-  "embedUrl": "https://youtu.be/mM3Vx73C9gY?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
-},
-{
-  "number": 2,
-  "title": "Episode 2",
-  "embedUrl": "https://youtu.be/m3VWwI9D7_0?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
-},
-{
-  "number": 3,
-  "title": "Episode 3",
-  "embedUrl": "https://youtu.be/TDe3JmFG400?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
-},
-{
-  "number": 4,
-  "title": "Episode 4",
-  "embedUrl": "https://youtu.be/czO8XFm6ykw?si=Bu9IMFrrwDfwAAFM"
-},
-{
-  "number": 5,
-  "title": "Episode 5",
-  "embedUrl": "https://youtu.be/Sn7z4vU2fEo?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
-},
-{
-  "number": 6,
-  "title": "Episode 6",
-  "embedUrl": "https://youtu.be/dKfz6FJ2lBg?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
-},
-{
-  "number": 7,
-  "title": "Episode 7",
-  "embedUrl": "https://youtu.be/hZ7kKKyNxr4?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
-},
-{
-  "number": 8,
-  "title": "Episode 8",
-  "embedUrl": "https://youtu.be/0iiAMPwo5D4?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
-},
-{
-  "number": 9,
-  "title": "Episode 9",
-  "embedUrl": "https://youtu.be/QevBdrfOY6A?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
-},
-{
-  "number": 10,
-  "title": "Episode 10",
-  "embedUrl": "https://youtu.be/OtYIxPVtFPU?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
-},
-{
-  "number": 11,
-  "title": "Episode 11",
-  "embedUrl": "https://youtu.be/nxQWjB_Wc64?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
-},
-{
-  "number": 12,
-  "title": "Episode 12",
-  "embedUrl": "https://youtu.be/glx0FTRWJ3I?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
-}
+      {
+        "number": 1,
+        "title": "Episode 1",
+        "embedUrl": "https://youtu.be/mM3Vx73C9gY?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
+      },
+      {
+        "number": 2,
+        "title": "Episode 2",
+        "embedUrl": "https://youtu.be/m3VWwI9D7_0?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
+      },
+      {
+        "number": 3,
+        "title": "Episode 3",
+        "embedUrl": "https://youtu.be/TDe3JmFG400?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
+      },
+      {
+        "number": 4,
+        "title": "Episode 4",
+        "embedUrl": "https://youtu.be/czO8XFm6ykw?si=Bu9IMFrrwDfwAAFM"
+      },
+      {
+        "number": 5,
+        "title": "Episode 5",
+        "embedUrl": "https://youtu.be/Sn7z4vU2fEo?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
+      },
+      {
+        "number": 6,
+        "title": "Episode 6",
+        "embedUrl": "https://youtu.be/dKfz6FJ2lBg?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
+      },
+      {
+        "number": 7,
+        "title": "Episode 7",
+        "embedUrl": "https://youtu.be/hZ7kKKyNxr4?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
+      },
+      {
+        "number": 8,
+        "title": "Episode 8",
+        "embedUrl": "https://youtu.be/0iiAMPwo5D4?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
+      },
+      {
+        "number": 9,
+        "title": "Episode 9",
+        "embedUrl": "https://youtu.be/QevBdrfOY6A?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
+      },
+      {
+        "number": 10,
+        "title": "Episode 10",
+        "embedUrl": "https://youtu.be/OtYIxPVtFPU?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
+      },
+      {
+        "number": 11,
+        "title": "Episode 11",
+        "embedUrl": "https://youtu.be/nxQWjB_Wc64?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
+      },
+      {
+        "number": 12,
+        "title": "Episode 12",
+        "embedUrl": "https://youtu.be/glx0FTRWJ3I?list=PLwLSw1_eDZl2a-5raJohuneXVt2b6m5lg"
+      }
     ],
     "description": "After losing their parents in a tragic accident, Ryuuichi Kashima and his toddler brother Kotarou are taken in by the chairwoman of an elite academy — on one condition: Ryuuichi must serve as a babysitter in the school’s daycare club.\n\n*School Babysitters* is a heartfelt slice-of-life series that follows Ryuuichi as he juggles school life, personal grief, and his growing bond with the preschoolers under his care. With moments of warmth, laughter, and quiet healing, each episode captures the innocence of childhood and the quiet resilience of those forced to grow up too soon.\n\nThe series blends gentle humor with emotional storytelling, featuring soft, natural dialogue and a focus on everyday Japanese — from caring for toddlers to navigating friendships and responsibilities. An excellent pick for JLPT N5 learners looking for slow, clear speech, real-life vocabulary, and stories that leave a lasting emotional imprint."
   },
@@ -953,69 +980,72 @@
     "title": "I Parry Everything",
     "slug": "parry-everything",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753967259/parry_ns34tj.webp",
-    "level": "JPLT N2",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N2",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        {
-  "number": 1,
-  "title": "I Parry a Cow",
-  "embedUrl": "https://youtu.be/NmNjJ0IYMm0?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
-},
-{
-  "number": 2,
-  "title": "I Parry Rewards",
-  "embedUrl": "https://youtu.be/wuRofHhIQes?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
-},
-{
-  "number": 3,
-  "title": "I Parry Taking on a Page",
-  "embedUrl": "https://youtu.be/mgke5r8_1bc?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
-},
-{
-  "number": 4,
-  "title": "I Parry a Goblin",
-  "embedUrl": "https://youtu.be/d5owS6TW7nM?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
-},
-{
-  "number": 5,
-  "title": "I Parry a Frog",
-  "embedUrl": "https://youtu.be/Q2eV43n3f-k?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
-},
-{
-  "number": 6,
-  "title": "I Parry Deadly Poison",
-  "embedUrl": "https://youtu.be/55rKBjGuCiU?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
-},
-{
-  "number": 7,
-  "title": "I Parry the Deadman",
-  "embedUrl": "https://youtu.be/AZHobppfpq8?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
-},
-{
-  "number": 8,
-  "title": "I Parry a Dragon",
-  "embedUrl": "https://youtu.be/RhG6Ezm_HiI?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
-},
-{
-  "number": 9,
-  "title": "I Parry an Army",
-  "embedUrl": "https://youtu.be/P_IJhwhOaPw?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
-},
-{
-  "number": 10,
-  "title": "I Parry the Emperor's Authority",
-  "embedUrl": "https://youtu.be/9gLZonbpuvM?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
-},
-{
-  "number": 11,
-  "title": "I Parry Divine Wrath",
-  "embedUrl": "https://youtu.be/dmFkdrZ5sic?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
-},
-{
-  "number": 12,
-  "title": "I Parry Everything",
-  "embedUrl": "https://youtu.be/0-gMNpEPEz8?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
-}
+      {
+        "number": 1,
+        "title": "I Parry a Cow",
+        "embedUrl": "https://youtu.be/NmNjJ0IYMm0?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
+      },
+      {
+        "number": 2,
+        "title": "I Parry Rewards",
+        "embedUrl": "https://youtu.be/wuRofHhIQes?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
+      },
+      {
+        "number": 3,
+        "title": "I Parry Taking on a Page",
+        "embedUrl": "https://youtu.be/mgke5r8_1bc?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
+      },
+      {
+        "number": 4,
+        "title": "I Parry a Goblin",
+        "embedUrl": "https://youtu.be/d5owS6TW7nM?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
+      },
+      {
+        "number": 5,
+        "title": "I Parry a Frog",
+        "embedUrl": "https://youtu.be/Q2eV43n3f-k?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
+      },
+      {
+        "number": 6,
+        "title": "I Parry Deadly Poison",
+        "embedUrl": "https://youtu.be/55rKBjGuCiU?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
+      },
+      {
+        "number": 7,
+        "title": "I Parry the Deadman",
+        "embedUrl": "https://youtu.be/AZHobppfpq8?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
+      },
+      {
+        "number": 8,
+        "title": "I Parry a Dragon",
+        "embedUrl": "https://youtu.be/RhG6Ezm_HiI?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
+      },
+      {
+        "number": 9,
+        "title": "I Parry an Army",
+        "embedUrl": "https://youtu.be/P_IJhwhOaPw?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
+      },
+      {
+        "number": 10,
+        "title": "I Parry the Emperor's Authority",
+        "embedUrl": "https://youtu.be/9gLZonbpuvM?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
+      },
+      {
+        "number": 11,
+        "title": "I Parry Divine Wrath",
+        "embedUrl": "https://youtu.be/dmFkdrZ5sic?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
+      },
+      {
+        "number": 12,
+        "title": "I Parry Everything",
+        "embedUrl": "https://youtu.be/0-gMNpEPEz8?list=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7"
+      }
     ],
     "description": "No magic, no sword skills — just one man and his shield. *I Parry Everything* follows Noris, an ordinary gate guard with no talent for combat or spells, who survives solely through years of perfecting one move: the parry.\n\nWhen a sudden threat targets the royal family, Noris is thrown into the center of a political and magical conspiracy far above his station. With nothing but raw tenacity and flawless timing, he dodges death again and again — not by overpowering enemies, but by outlasting them. His ability to deflect even the strongest attacks turns out to be the key to protecting the kingdom.\n\nA fresh take on fantasy storytelling, this series swaps overpowered protagonists for a grounded, skill-based underdog narrative. It’s packed with tactical battles, clever comebacks, and moments of unexpected heart. The dialogue leans formal and often repeats key phrases, making it a smooth watch with strong character focus and a satisfying narrative rhythm."
   },
@@ -1024,69 +1054,72 @@
     "title": "Cheer Boys",
     "slug": "cheer-boys",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753966750/chher_zpqoqx.jpg",
-    "level": "JPLT N5",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N5",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        {
-  "number": 1,
-  "title": "The Curtain Rises",
-  "embedUrl": "https://youtu.be/PzBszurpyNI?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
-},
-{
-  "number": 2,
-  "title": "Your First Cheerleader Smile",
-  "embedUrl": "https://youtu.be/jg80mWhvy0E?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
-},
-{
-  "number": 3,
-  "title": "The Seventh Squirrelurai",
-  "embedUrl": "https://youtu.be/5tFmERaHC3U?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
-},
-{
-  "number": 4,
-  "title": "What We Want To Break",
-  "embedUrl": "https://youtu.be/VEY5ZFKPJVs?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
-},
-{
-  "number": 5,
-  "title": "Let's Go, Breakers!",
-  "embedUrl": "https://youtu.be/wNkq-lpaScM?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
-},
-{
-  "number": 6,
-  "title": "Restart",
-  "embedUrl": "https://youtu.be/vQgGgHw3wb0?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
-},
-{
-  "number": 7,
-  "title": "Strain",
-  "embedUrl": "https://youtu.be/ihv_1AiPYsE?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
-},
-{
-  "number": 8,
-  "title": "The Dawning of a Bond",
-  "embedUrl": "https://youtu.be/b7unfogL2B8?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
-},
-{
-  "number": 9,
-  "title": "Tears of the Sun",
-  "embedUrl": "https://youtu.be/9HkElTf72Rk?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
-},
-{
-  "number": 10,
-  "title": "What I Wanted To Tell You",
-  "embedUrl": "https://youtu.be/Zrn73Xi4YU0?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
-},
-{
-  "number": 11,
-  "title": "Bittersweet Valentine",
-  "embedUrl": "https://youtu.be/0U2R2KMIVRo?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
-},
-{
-  "number": 12,
-  "title": "Cheer Boys!!",
-  "embedUrl": "https://youtu.be/zpgOPPK2zb8?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
-}
+      {
+        "number": 1,
+        "title": "The Curtain Rises",
+        "embedUrl": "https://youtu.be/PzBszurpyNI?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
+      },
+      {
+        "number": 2,
+        "title": "Your First Cheerleader Smile",
+        "embedUrl": "https://youtu.be/jg80mWhvy0E?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
+      },
+      {
+        "number": 3,
+        "title": "The Seventh Squirrelurai",
+        "embedUrl": "https://youtu.be/5tFmERaHC3U?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
+      },
+      {
+        "number": 4,
+        "title": "What We Want To Break",
+        "embedUrl": "https://youtu.be/VEY5ZFKPJVs?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
+      },
+      {
+        "number": 5,
+        "title": "Let's Go, Breakers!",
+        "embedUrl": "https://youtu.be/wNkq-lpaScM?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
+      },
+      {
+        "number": 6,
+        "title": "Restart",
+        "embedUrl": "https://youtu.be/vQgGgHw3wb0?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
+      },
+      {
+        "number": 7,
+        "title": "Strain",
+        "embedUrl": "https://youtu.be/ihv_1AiPYsE?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
+      },
+      {
+        "number": 8,
+        "title": "The Dawning of a Bond",
+        "embedUrl": "https://youtu.be/b7unfogL2B8?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
+      },
+      {
+        "number": 9,
+        "title": "Tears of the Sun",
+        "embedUrl": "https://youtu.be/9HkElTf72Rk?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
+      },
+      {
+        "number": 10,
+        "title": "What I Wanted To Tell You",
+        "embedUrl": "https://youtu.be/Zrn73Xi4YU0?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
+      },
+      {
+        "number": 11,
+        "title": "Bittersweet Valentine",
+        "embedUrl": "https://youtu.be/0U2R2KMIVRo?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
+      },
+      {
+        "number": 12,
+        "title": "Cheer Boys!!",
+        "embedUrl": "https://youtu.be/zpgOPPK2zb8?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
+      }
     ],
     "description": "After a career-ending judo injury, university student Haruki Bando finds himself lost — until his childhood friend Kazuma proposes something completely unexpected: starting an all-male cheerleading team.\n\nSet against the backdrop of college life, *Cheer Boys!!* is a story about risk, recovery, and finding your voice in a world that often ridicules anything different. As Haruki and his teammates — each carrying their own insecurities — form the 'BREAKERS', they face judgment, self-doubt, and physical limits to prove that cheer is more than pom-poms and performance: it’s trust, unity, and heart.\n\nThis series blends sports drama with slice-of-life authenticity. The dialogue is natural, grounded in youth culture, and layered with moments of vulnerability and growth. Whether it’s through quiet emotional scenes or high-energy group chants, *Cheer Boys!!* delivers a rare kind of sincerity that makes every setback, leap, and cheer land with impact."
   },
@@ -1095,129 +1128,132 @@
     "title": "Ragna Crimson",
     "slug": "ragna-crimson",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753967795/ragna_fa7kuy.webp",
-    "level": "JPLT N3",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N3",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        {
-  "number": 1,
-  "title": "The Day the Reaper Was Born",
-  "embedUrl": "https://youtu.be/ZuYiS3NROnQ?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 2,
-  "title": "The Beginning of the Story",
-  "embedUrl": "https://youtu.be/7tvaWtd2VIc?si=TIsU5wnWyeXgC7V4"
-},
-{
-  "number": 3,
-  "title": "Agitation",
-  "embedUrl": "https://youtu.be/DIXhoQdJ32A?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 4,
-  "title": "Action",
-  "embedUrl": "https://youtu.be/18MqETM9QPE?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 5,
-  "title": "Wing",
-  "embedUrl": "https://youtu.be/nJZK_16NLME?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 6,
-  "title": "Reunion",
-  "embedUrl": "https://youtu.be/x4wexWXIdes?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 7,
-  "title": "Act and Guilt",
-  "embedUrl": "https://youtu.be/HFAf9WJNKBw?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 8,
-  "title": "A Painful Blow",
-  "embedUrl": "https://youtu.be/JMm7tZg1leM?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 9,
-  "title": "Negotiation and True Nature",
-  "embedUrl": "https://youtu.be/2VJfxh1Ltrk?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 10,
-  "title": "Stakes and Cooperation",
-  "embedUrl": "https://youtu.be/BITSrFd52mY?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 11,
-  "title": "Tactics and Knowledge",
-  "embedUrl": "https://youtu.be/Ftg3ZHS4aww?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 12,
-  "title": "Determination and Readiness",
-  "embedUrl": "https://youtu.be/aFUUUWOz91s?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 13,
-  "title": "Hero of the Battle",
-  "embedUrl": "https://youtu.be/Ly9XBIAAAFM?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 14,
-  "title": "Impatience and Vigilance",
-  "embedUrl": "https://youtu.be/n6EfTGxglp4?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 15,
-  "title": "Latent Awakening",
-  "embedUrl": "https://youtu.be/PqboWkVE9Wc?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 16,
-  "title": "Will of Resistance",
-  "embedUrl": "https://youtu.be/fusYAKSBCtc?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 17,
-  "title": "My Comrade",
-  "embedUrl": "https://youtu.be/VC7_sThdwZ8?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 18,
-  "title": "End of the Battle to the Death",
-  "embedUrl": "https://youtu.be/QwMFxGAMJdc?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 19,
-  "title": "Reason to Fight",
-  "embedUrl": "https://youtu.be/caL6dS8lCpM?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 20,
-  "title": "Just Watch Me",
-  "embedUrl": "https://youtu.be/0xHX5Z-uhXQ?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 21,
-  "title": "Words Aren't Needed",
-  "embedUrl": "https://youtu.be/8k6Lqb4836c?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 22,
-  "title": "The Winged Monarch",
-  "embedUrl": "https://youtu.be/nVtYkis130g?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 23,
-  "title": "Lightning God",
-  "embedUrl": "https://youtu.be/7R4nJaUV-jM?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-},
-{
-  "number": 24,
-  "title": "Light",
-  "embedUrl": "https://youtu.be/xf3MSJpcrrs?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
-}
+      {
+        "number": 1,
+        "title": "The Day the Reaper Was Born",
+        "embedUrl": "https://youtu.be/ZuYiS3NROnQ?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 2,
+        "title": "The Beginning of the Story",
+        "embedUrl": "https://youtu.be/7tvaWtd2VIc?si=TIsU5wnWyeXgC7V4"
+      },
+      {
+        "number": 3,
+        "title": "Agitation",
+        "embedUrl": "https://youtu.be/DIXhoQdJ32A?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 4,
+        "title": "Action",
+        "embedUrl": "https://youtu.be/18MqETM9QPE?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 5,
+        "title": "Wing",
+        "embedUrl": "https://youtu.be/nJZK_16NLME?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 6,
+        "title": "Reunion",
+        "embedUrl": "https://youtu.be/x4wexWXIdes?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 7,
+        "title": "Act and Guilt",
+        "embedUrl": "https://youtu.be/HFAf9WJNKBw?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 8,
+        "title": "A Painful Blow",
+        "embedUrl": "https://youtu.be/JMm7tZg1leM?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 9,
+        "title": "Negotiation and True Nature",
+        "embedUrl": "https://youtu.be/2VJfxh1Ltrk?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 10,
+        "title": "Stakes and Cooperation",
+        "embedUrl": "https://youtu.be/BITSrFd52mY?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 11,
+        "title": "Tactics and Knowledge",
+        "embedUrl": "https://youtu.be/Ftg3ZHS4aww?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 12,
+        "title": "Determination and Readiness",
+        "embedUrl": "https://youtu.be/aFUUUWOz91s?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 13,
+        "title": "Hero of the Battle",
+        "embedUrl": "https://youtu.be/Ly9XBIAAAFM?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 14,
+        "title": "Impatience and Vigilance",
+        "embedUrl": "https://youtu.be/n6EfTGxglp4?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 15,
+        "title": "Latent Awakening",
+        "embedUrl": "https://youtu.be/PqboWkVE9Wc?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 16,
+        "title": "Will of Resistance",
+        "embedUrl": "https://youtu.be/fusYAKSBCtc?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 17,
+        "title": "My Comrade",
+        "embedUrl": "https://youtu.be/VC7_sThdwZ8?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 18,
+        "title": "End of the Battle to the Death",
+        "embedUrl": "https://youtu.be/QwMFxGAMJdc?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 19,
+        "title": "Reason to Fight",
+        "embedUrl": "https://youtu.be/caL6dS8lCpM?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 20,
+        "title": "Just Watch Me",
+        "embedUrl": "https://youtu.be/0xHX5Z-uhXQ?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 21,
+        "title": "Words Aren't Needed",
+        "embedUrl": "https://youtu.be/8k6Lqb4836c?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 22,
+        "title": "The Winged Monarch",
+        "embedUrl": "https://youtu.be/nVtYkis130g?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 23,
+        "title": "Lightning God",
+        "embedUrl": "https://youtu.be/7R4nJaUV-jM?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      },
+      {
+        "number": 24,
+        "title": "Light",
+        "embedUrl": "https://youtu.be/xf3MSJpcrrs?list=PLwLSw1_eDZl2gLJyLH6BkSr4l1XPaKDjT"
+      }
     ],
     "description": "In a world ruled by dragons, humanity’s only hope lies in the hands of dragon hunters — warriors willing to face creatures that can annihilate cities in moments. Among them is Ragna, a weak but determined fighter who lives only to protect his partner, the prodigiously gifted Leonica.\n\nBut fate is cruel. When tragedy strikes, Ragna is visited by a future version of himself — one who has lost everything and become a monster-slaying force of vengeance. With this future's power now inside him, Ragna begins a brutal new path: one not of survival, but total annihilation of all dragons.\n\n*Ragna Crimson* is a visually intense, emotionally heavy fantasy series packed with desperate battles, irreversible choices, and the haunting weight of destiny. It explores obsession, sacrifice, and the thin line between heroism and self-destruction. The dialogue blends high-stakes narration with sharp emotional contrast — making it a compelling challenge for learners who want to experience language in its most dramatic, high-pressure form."
   },
@@ -1226,69 +1262,72 @@
     "title": "Zom 100",
     "slug": "zom-100",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753967924/zom_o4e5gt.webp",
-    "level": "JPLT N3",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N3",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        {
-  "number": 1,
-  "title": "Akira of the Dead",
-  "embedUrl": "https://youtu.be/qRd5wbH4Cio?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
-},
-{
-  "number": 2,
-  "title": "Bucket List of the Dead",
-  "embedUrl": "https://youtu.be/_z2gQeguOA0?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
-},
-{
-  "number": 3,
-  "title": "Best Friend of the Dead",
-  "embedUrl": "https://youtu.be/0kl6UUQW_K4?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
-},
-{
-  "number": 4,
-  "title": "Flight Attendant of the Dead",
-  "embedUrl": "https://youtu.be/JzXyCc_Sj5Q?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
-},
-{
-  "number": 5,
-  "title": "Hero of the Dead",
-  "embedUrl": "https://youtu.be/IHM4aCbhUmo?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
-},
-{
-  "number": 6,
-  "title": "RV of the Dead",
-  "embedUrl": "https://youtu.be/93PPhq0V0MM?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
-},
-{
-  "number": 7,
-  "title": "Truck Stop of the Dead",
-  "embedUrl": "https://youtu.be/E9WUKtmRQdc?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
-},
-{
-  "number": 8,
-  "title": "Sushi & Hot Springs of the Dead",
-  "embedUrl": "https://youtu.be/HSQc97u8s0Q?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
-},
-{
-  "number": 9,
-  "title": "Treehouse of the Dead",
-  "embedUrl": "https://youtu.be/XTafDZ9ZhUY?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
-},
-{
-  "number": 10,
-  "title": "Hometown of the Dead I",
-  "embedUrl": "https://youtu.be/GJNugrEKk2w?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
-},
-{
-  "number": 11,
-  "title": "Hometown of the Dead II",
-  "embedUrl": "https://youtu.be/A1vXw83JAqo?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
-},
-{
-  "number": 12,
-  "title": "Hometown of the Dead III",
-  "embedUrl": "https://youtu.be/EWZrbSs6SOM?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
-}
+      {
+        "number": 1,
+        "title": "Akira of the Dead",
+        "embedUrl": "https://youtu.be/qRd5wbH4Cio?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
+      },
+      {
+        "number": 2,
+        "title": "Bucket List of the Dead",
+        "embedUrl": "https://youtu.be/_z2gQeguOA0?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
+      },
+      {
+        "number": 3,
+        "title": "Best Friend of the Dead",
+        "embedUrl": "https://youtu.be/0kl6UUQW_K4?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
+      },
+      {
+        "number": 4,
+        "title": "Flight Attendant of the Dead",
+        "embedUrl": "https://youtu.be/JzXyCc_Sj5Q?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
+      },
+      {
+        "number": 5,
+        "title": "Hero of the Dead",
+        "embedUrl": "https://youtu.be/IHM4aCbhUmo?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
+      },
+      {
+        "number": 6,
+        "title": "RV of the Dead",
+        "embedUrl": "https://youtu.be/93PPhq0V0MM?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
+      },
+      {
+        "number": 7,
+        "title": "Truck Stop of the Dead",
+        "embedUrl": "https://youtu.be/E9WUKtmRQdc?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
+      },
+      {
+        "number": 8,
+        "title": "Sushi & Hot Springs of the Dead",
+        "embedUrl": "https://youtu.be/HSQc97u8s0Q?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
+      },
+      {
+        "number": 9,
+        "title": "Treehouse of the Dead",
+        "embedUrl": "https://youtu.be/XTafDZ9ZhUY?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
+      },
+      {
+        "number": 10,
+        "title": "Hometown of the Dead I",
+        "embedUrl": "https://youtu.be/GJNugrEKk2w?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
+      },
+      {
+        "number": 11,
+        "title": "Hometown of the Dead II",
+        "embedUrl": "https://youtu.be/A1vXw83JAqo?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
+      },
+      {
+        "number": 12,
+        "title": "Hometown of the Dead III",
+        "embedUrl": "https://youtu.be/EWZrbSs6SOM?list=PLwLSw1_eDZl0cJyc_zkaS2wgBge7kdPcF"
+      }
     ],
     "description": "For Akira Tendo, life has already felt like a living hell. Trapped in a soul-crushing corporate job, he spends three years sleepwalking through the grind — until the zombie apocalypse hits Tokyo. And for the first time… he's thrilled.\n\nWith the world falling apart, Akira sees freedom. No more commutes. No more emails. Just one mission: complete a bucket list of 100 things he wants to do before he turns into a zombie. Whether it’s confessing to his crush or riding a motorcycle through empty streets, every item is a rebellion against his former life.\n\n*Zom 100* is part survival, part existential comedy. Underneath the gore and absurdity is a real critique of burnout, social expectations, and the price of ignoring your dreams. The Japanese is modern, fast, and slang-rich — great for learners who want to hear real urban speech with both humor and urgency. It’s bright. It’s bloody. It’s bizarre. And somehow, it’s also deeply relatable."
   },
@@ -1297,69 +1336,72 @@
     "title": "Loner Life In Another World",
     "slug": "loner-life",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753968182/loner_fz3bdc.webp",
-    "level": "JPLT N3",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N3",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        {
-  "number": 1,
-  "title": "Loner With the Worst Skills",
-  "embedUrl": "https://youtu.be/36KgZyhVEts?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
-},
-{
-  "number": 2,
-  "title": "Reunion",
-  "embedUrl": "https://youtu.be/cMRlnXyq4FQ?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
-},
-{
-  "number": 3,
-  "title": "Life With the Girls",
-  "embedUrl": "https://youtu.be/VTQFsvc_q_k?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
-},
-{
-  "number": 4,
-  "title": "Headed to Town",
-  "embedUrl": "https://youtu.be/IJJoEXP9EgU?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
-},
-{
-  "number": 5,
-  "title": "Life in Town",
-  "embedUrl": "https://youtu.be/HUP8VKmbdB0?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
-},
-{
-  "number": 6,
-  "title": "Alone Again",
-  "embedUrl": "https://youtu.be/0HIiFRHV-MU?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
-},
-{
-  "number": 7,
-  "title": "Haruka & the Hooded Man",
-  "embedUrl": "https://youtu.be/J3AADOuz7FQ?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
-},
-{
-  "number": 8,
-  "title": "Dungeon Expedition",
-  "embedUrl": "https://youtu.be/TkQstk7tT7s?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
-},
-{
-  "number": 9,
-  "title": "The Loner & the Dungeon Emperor",
-  "embedUrl": "https://youtu.be/VH0djScFgjQ?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
-},
-{
-  "number": 10,
-  "title": "Stampede",
-  "embedUrl": "https://youtu.be/ZWsTK_hMc3U?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
-},
-{
-  "number": 11,
-  "title": "Dungeon Escape",
-  "embedUrl": "https://youtu.be/8aW0n2rOHLE?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
-},
-{
-  "number": 12,
-  "title": "Loner & Loner",
-  "embedUrl": "https://youtu.be/Ls_4obLdRFg?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
-}
+      {
+        "number": 1,
+        "title": "Loner With the Worst Skills",
+        "embedUrl": "https://youtu.be/36KgZyhVEts?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
+      },
+      {
+        "number": 2,
+        "title": "Reunion",
+        "embedUrl": "https://youtu.be/cMRlnXyq4FQ?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
+      },
+      {
+        "number": 3,
+        "title": "Life With the Girls",
+        "embedUrl": "https://youtu.be/VTQFsvc_q_k?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
+      },
+      {
+        "number": 4,
+        "title": "Headed to Town",
+        "embedUrl": "https://youtu.be/IJJoEXP9EgU?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
+      },
+      {
+        "number": 5,
+        "title": "Life in Town",
+        "embedUrl": "https://youtu.be/HUP8VKmbdB0?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
+      },
+      {
+        "number": 6,
+        "title": "Alone Again",
+        "embedUrl": "https://youtu.be/0HIiFRHV-MU?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
+      },
+      {
+        "number": 7,
+        "title": "Haruka & the Hooded Man",
+        "embedUrl": "https://youtu.be/J3AADOuz7FQ?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
+      },
+      {
+        "number": 8,
+        "title": "Dungeon Expedition",
+        "embedUrl": "https://youtu.be/TkQstk7tT7s?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
+      },
+      {
+        "number": 9,
+        "title": "The Loner & the Dungeon Emperor",
+        "embedUrl": "https://youtu.be/VH0djScFgjQ?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
+      },
+      {
+        "number": 10,
+        "title": "Stampede",
+        "embedUrl": "https://youtu.be/ZWsTK_hMc3U?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
+      },
+      {
+        "number": 11,
+        "title": "Dungeon Escape",
+        "embedUrl": "https://youtu.be/8aW0n2rOHLE?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
+      },
+      {
+        "number": 12,
+        "title": "Loner & Loner",
+        "embedUrl": "https://youtu.be/Ls_4obLdRFg?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
+      }
     ],
     "description": "When an entire class is summoned to a fantasy world, Haruka is the one guy who gets left out of the cheat skill distribution. Socially isolated and written off as useless, he walks away from the hero party — alone. But what the others don’t know is that solitude is Haruka’s element.\n\nThrough sheer grind, broken logic, and a bit of madness, he turns low-tier skills into a devastating arsenal. No guild. No allies. Just traps, trickery, and relentless power-scaling. As the others flounder under their own egos, Haruka breaks the system his own way.\n\n*Loner Life in Another World* mixes antihero comedy with unexpected depth. It’s a story about self-sufficiency, playing the game your way, and rejecting groupthink. For learners, it blends slice-of-life narration with absurd internal monologues and game-style vocabulary — great for intermediate-level immersion with some mental curveballs."
   },
@@ -1368,129 +1410,132 @@
     "title": "The Seven Deadly Sins",
     "slug": "seven-sins",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753968466/seven_hr4fgs.jpg",
-    "level": "JPLT N3",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N3",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        {
-  "number": 1,
-  "title": "The Seven Deadly Sins",
-  "embedUrl": "https://youtu.be/ZJnq_vgwNkM?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 2,
-  "title": "The Sword of the Holy Knight",
-  "embedUrl": "https://youtu.be/J7wOBVEc-Wk?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 3,
-  "title": "The Sin in the Sleeping Forest",
-  "embedUrl": "https://youtu.be/miL1Gj-qfl0?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 4,
-  "title": "A Little Girl's Dream",
-  "embedUrl": "https://youtu.be/JxS56A8zwkM?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 5,
-  "title": "Even If You Should Die",
-  "embedUrl": "https://youtu.be/c9L3SjLdPp4?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 6,
-  "title": "The Poem of Beginnings",
-  "embedUrl": "https://youtu.be/QB5r5Kv4kJY?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 7,
-  "title": "A Touching Reunion",
-  "embedUrl": "https://youtu.be/V50sZ0hNJVM?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 8,
-  "title": "The Fearsome Pursuer",
-  "embedUrl": "https://youtu.be/DsG7C9g5Poc?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 9,
-  "title": "Dark Pulse",
-  "embedUrl": "https://youtu.be/QyHfpF8wiZQ?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 10,
-  "title": "The Vaizel Fighting Festival",
-  "embedUrl": "https://youtu.be/nex1lOmGMkc?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 11,
-  "title": "Pent-Up Feelings",
-  "embedUrl": "https://youtu.be/6GC9qOA3FBE?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 12,
-  "title": "Bloodcurdling Cannon",
-  "embedUrl": "https://youtu.be/ktfguv8U2hc?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 13,
-  "title": "The Angel of Destruction",
-  "embedUrl": "https://youtu.be/p80nFB8fF1g?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 14,
-  "title": "A Reader of Books",
-  "embedUrl": "https://youtu.be/WFU4tyixJds?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 15,
-  "title": "Unholy Knight",
-  "embedUrl": "https://youtu.be/0RjTzR90L_I?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 16,
-  "title": "The Legends, Provoked",
-  "embedUrl": "https://youtu.be/ftC2_Ew0rwE?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 17,
-  "title": "The First Sacrifice",
-  "embedUrl": "https://youtu.be/ZTRl77gsT-Q?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 18,
-  "title": "Even If It Costs Me My Life",
-  "embedUrl": "https://youtu.be/BAuRTvUqGcE?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 19,
-  "title": "The Fairy King Waits in Vain",
-  "embedUrl": "https://youtu.be/YDJ6BJjIbFs?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 20,
-  "title": "The Courage Charm",
-  "embedUrl": "https://youtu.be/eS9gGhf27P8?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 21,
-  "title": "The Looming Threat",
-  "embedUrl": "https://youtu.be/kl1JXSfZebQ?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 22,
-  "title": "What I Can Do for You",
-  "embedUrl": "https://youtu.be/J38unRbDG8Q?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 23,
-  "title": "Despair Descends",
-  "embedUrl": "https://youtu.be/oOekzNxWiSA?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
-},
-{
-  "number": 24,
-  "title": "The Heroes",
-  "embedUrl": "https://youtu.be/PcCS9PoGBgQ?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq "
-}
+      {
+        "number": 1,
+        "title": "The Seven Deadly Sins",
+        "embedUrl": "https://youtu.be/ZJnq_vgwNkM?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 2,
+        "title": "The Sword of the Holy Knight",
+        "embedUrl": "https://youtu.be/J7wOBVEc-Wk?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 3,
+        "title": "The Sin in the Sleeping Forest",
+        "embedUrl": "https://youtu.be/miL1Gj-qfl0?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 4,
+        "title": "A Little Girl's Dream",
+        "embedUrl": "https://youtu.be/JxS56A8zwkM?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 5,
+        "title": "Even If You Should Die",
+        "embedUrl": "https://youtu.be/c9L3SjLdPp4?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 6,
+        "title": "The Poem of Beginnings",
+        "embedUrl": "https://youtu.be/QB5r5Kv4kJY?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 7,
+        "title": "A Touching Reunion",
+        "embedUrl": "https://youtu.be/V50sZ0hNJVM?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 8,
+        "title": "The Fearsome Pursuer",
+        "embedUrl": "https://youtu.be/DsG7C9g5Poc?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 9,
+        "title": "Dark Pulse",
+        "embedUrl": "https://youtu.be/QyHfpF8wiZQ?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 10,
+        "title": "The Vaizel Fighting Festival",
+        "embedUrl": "https://youtu.be/nex1lOmGMkc?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 11,
+        "title": "Pent-Up Feelings",
+        "embedUrl": "https://youtu.be/6GC9qOA3FBE?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 12,
+        "title": "Bloodcurdling Cannon",
+        "embedUrl": "https://youtu.be/ktfguv8U2hc?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 13,
+        "title": "The Angel of Destruction",
+        "embedUrl": "https://youtu.be/p80nFB8fF1g?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 14,
+        "title": "A Reader of Books",
+        "embedUrl": "https://youtu.be/WFU4tyixJds?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 15,
+        "title": "Unholy Knight",
+        "embedUrl": "https://youtu.be/0RjTzR90L_I?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 16,
+        "title": "The Legends, Provoked",
+        "embedUrl": "https://youtu.be/ftC2_Ew0rwE?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 17,
+        "title": "The First Sacrifice",
+        "embedUrl": "https://youtu.be/ZTRl77gsT-Q?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 18,
+        "title": "Even If It Costs Me My Life",
+        "embedUrl": "https://youtu.be/BAuRTvUqGcE?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 19,
+        "title": "The Fairy King Waits in Vain",
+        "embedUrl": "https://youtu.be/YDJ6BJjIbFs?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 20,
+        "title": "The Courage Charm",
+        "embedUrl": "https://youtu.be/eS9gGhf27P8?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 21,
+        "title": "The Looming Threat",
+        "embedUrl": "https://youtu.be/kl1JXSfZebQ?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 22,
+        "title": "What I Can Do for You",
+        "embedUrl": "https://youtu.be/J38unRbDG8Q?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 23,
+        "title": "Despair Descends",
+        "embedUrl": "https://youtu.be/oOekzNxWiSA?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      },
+      {
+        "number": 24,
+        "title": "The Heroes",
+        "embedUrl": "https://youtu.be/PcCS9PoGBgQ?list=PLwLSw1_eDZl3572W1HJjIkZyW-0GGVUVq"
+      }
     ],
     "description": "In a world where holy knights protect the kingdom, the land once trembled at the might of a feared group: the Seven Deadly Sins. Framed for treason and scattered, they vanished—until a young princess sets out to reunite them and expose the truth. At the center is Meliodas, a seemingly carefree tavern owner hiding monstrous power and a cursed past.\n\n*The Seven Deadly Sins* blends high-octane fantasy battles with mythic lore, dark secrets, and emotional stakes that unravel slowly. For learners, the dialogue swings between medieval formality and casual banter, exposing you to a wide spectrum of tones, honorifics, and high-fantasy vocabulary while keeping the energy sharp and fast-paced."
   },
@@ -1499,140 +1544,142 @@
     "title": "Re: Zero - Season 1",
     "slug": "re-zero-s1",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753968622/rezero_ls450l.webp",
-    "level": "JPLT N2",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N2",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        {
-  "number": 1,
-  "title": "The End of the Beginning and the Beginning of the End (Part 1)",
-  "embedUrl": "https://youtu.be/7F5rns5lX6g?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 2,
-  "title": "The End of the Beginning and the Beginning of the End (Part 2)",
-  "embedUrl": "https://youtu.be/rXaybre0jXI?si=UFDiBRx8PUM7Zu_e"
-},
-{
-  "number": 3,
-  "title": " Reunion with the Witch",
-  "embedUrl": "https://youtu.be/fU2cfFmjPL0?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 4,
-  "title": "Starting Life from Zero in Another World",
-  "embedUrl": "https://youtu.be/qb8Inc6f92E?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 5,
-  "title": "The Happy Roswaal Mansion Family",
-  "embedUrl": "https://youtu.be/n4I1MDCI6A4?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 6,
-  "title": "The Morning of Our Promise Is Still Distant",
-  "embedUrl": "https://youtu.be/gmDWiKT27PA?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 7,
-  "title": "The Sound of Chains",
-  "embedUrl": "https://youtu.be/j22SMlQZIag?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 8,
-  "title": "Natsuki Subaru's Restart",
-  "embedUrl": "https://youtu.be/4bMO1PkUQs8?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 9,
-  "title": "I Cried, Cried My Lungs Out, and Stopped Crying",
-  "embedUrl": "https://youtu.be/UzJ6CyTFIbE?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 10,
-  "title": "The Meaning of Courage",
-  "embedUrl": "https://youtu.be/jzOISDuciuQ?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 11,
-  "title": "Fanatical Methods Like a Demon",
-  "embedUrl": "https://youtu.be/9lNsBOSni1U?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 12,
-  "title": "Rem",
-  "embedUrl": "https://youtu.be/PrKKYAS-vPw?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 13,
-  "title": " Return to the Capital",
-  "embedUrl": "https://youtu.be/VbByrxZxRe8?si=GPaTDxkkXc_Sb0SB"
-},
-{
-  "number": 14,
-  "title": "Self-Proclaimed Knight Natsuki Subaru",
-  "embedUrl": "https://youtu.be/jxXBClt_t5s?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 15,
-  "title": "The Sickness Called Despair",
-  "embedUrl": "https://youtu.be/gA8CVE21gQc?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 16,
-  "title": "The Outside of Madness",
-  "embedUrl": "https://youtu.be/G2Uz1tUCYhA?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 17,
-  "title": "The Greed of a Pig",
-  "embedUrl": "https://youtu.be/d-XacRgxKDs?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 18,
-  "title": "Disgrace in the Extreme",
-  "embedUrl": "https://youtu.be/1H8vPX0wGWY?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 19,
-  "title": "From Zero",
-  "embedUrl": "https://youtu.be/t3_Y2lXOco8?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 20,
-  "title": "Battle Against the White Whale",
-  "embedUrl": "https://youtu.be/VX_chxGZLB8?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 21,
-  "title": "Wilhelm van Astrea",
-  "embedUrl": "https://youtu.be/iMwLryrMGos?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 22,
-  "title": "A Wager That Defies Despair",
-  "embedUrl": "https://youtu.be/uQwCb6Pj07Y?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 23,
-  "title": "A Flash of Sloth",
-  "embedUrl": "https://youtu.be/qrD3Rbbi54M?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 24,
-  "title": "Nefarious Sloth",
-  "embedUrl": "https://youtu.be/WJVIBXJXHOE?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 25,
-  "title": "The Self-Proclaimed Knight and the Greatest Knight",
-  "embedUrl": "https://youtu.be/KNZlDgtTqOc?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-},
-{
-  "number": 26,
-  "title": "That's All This Story Is About",
-  "embedUrl": "https://youtu.be/vOp0BvXA5Uo?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
-}
-
+      {
+        "number": 1,
+        "title": "The End of the Beginning and the Beginning of the End (Part 1)",
+        "embedUrl": "https://youtu.be/7F5rns5lX6g?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 2,
+        "title": "The End of the Beginning and the Beginning of the End (Part 2)",
+        "embedUrl": "https://youtu.be/rXaybre0jXI?si=UFDiBRx8PUM7Zu_e"
+      },
+      {
+        "number": 3,
+        "title": " Reunion with the Witch",
+        "embedUrl": "https://youtu.be/fU2cfFmjPL0?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 4,
+        "title": "Starting Life from Zero in Another World",
+        "embedUrl": "https://youtu.be/qb8Inc6f92E?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 5,
+        "title": "The Happy Roswaal Mansion Family",
+        "embedUrl": "https://youtu.be/n4I1MDCI6A4?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 6,
+        "title": "The Morning of Our Promise Is Still Distant",
+        "embedUrl": "https://youtu.be/gmDWiKT27PA?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 7,
+        "title": "The Sound of Chains",
+        "embedUrl": "https://youtu.be/j22SMlQZIag?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 8,
+        "title": "Natsuki Subaru's Restart",
+        "embedUrl": "https://youtu.be/4bMO1PkUQs8?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 9,
+        "title": "I Cried, Cried My Lungs Out, and Stopped Crying",
+        "embedUrl": "https://youtu.be/UzJ6CyTFIbE?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 10,
+        "title": "The Meaning of Courage",
+        "embedUrl": "https://youtu.be/jzOISDuciuQ?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 11,
+        "title": "Fanatical Methods Like a Demon",
+        "embedUrl": "https://youtu.be/9lNsBOSni1U?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 12,
+        "title": "Rem",
+        "embedUrl": "https://youtu.be/PrKKYAS-vPw?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 13,
+        "title": " Return to the Capital",
+        "embedUrl": "https://youtu.be/VbByrxZxRe8?si=GPaTDxkkXc_Sb0SB"
+      },
+      {
+        "number": 14,
+        "title": "Self-Proclaimed Knight Natsuki Subaru",
+        "embedUrl": "https://youtu.be/jxXBClt_t5s?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 15,
+        "title": "The Sickness Called Despair",
+        "embedUrl": "https://youtu.be/gA8CVE21gQc?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 16,
+        "title": "The Outside of Madness",
+        "embedUrl": "https://youtu.be/G2Uz1tUCYhA?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 17,
+        "title": "The Greed of a Pig",
+        "embedUrl": "https://youtu.be/d-XacRgxKDs?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 18,
+        "title": "Disgrace in the Extreme",
+        "embedUrl": "https://youtu.be/1H8vPX0wGWY?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 19,
+        "title": "From Zero",
+        "embedUrl": "https://youtu.be/t3_Y2lXOco8?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 20,
+        "title": "Battle Against the White Whale",
+        "embedUrl": "https://youtu.be/VX_chxGZLB8?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 21,
+        "title": "Wilhelm van Astrea",
+        "embedUrl": "https://youtu.be/iMwLryrMGos?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 22,
+        "title": "A Wager That Defies Despair",
+        "embedUrl": "https://youtu.be/uQwCb6Pj07Y?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 23,
+        "title": "A Flash of Sloth",
+        "embedUrl": "https://youtu.be/qrD3Rbbi54M?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 24,
+        "title": "Nefarious Sloth",
+        "embedUrl": "https://youtu.be/WJVIBXJXHOE?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 25,
+        "title": "The Self-Proclaimed Knight and the Greatest Knight",
+        "embedUrl": "https://youtu.be/KNZlDgtTqOc?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      },
+      {
+        "number": 26,
+        "title": "That's All This Story Is About",
+        "embedUrl": "https://youtu.be/vOp0BvXA5Uo?list=PLwLSw1_eDZl0_movujO4K0xYOAG9soPjH"
+      }
     ],
     "description": "Subaru Natsuki is just another shut-in gamer until he's suddenly transported to a fantasy world — with no explanation, no grand quest, and no special powers... except one: when he dies, time resets. But this 'Return by Death' is no gift. It's a curse that drags him through endless loops of pain, betrayal, and psychological torment. With every failure, he watches people he cares about suffer — and forget everything when he comes back. Each reset leaves scars no one else can see.\n\n*Re:Zero − Starting Life in Another World* isn't just another isekai. It's a relentless psychological spiral. Behind the swords and magic is a brutal meditation on trauma, perseverance, and identity. Subaru is not a chosen hero — he’s weak, irrational, and often hated — but he fights anyway, clawing forward inch by inch to rewrite fate. With complex characters like Emilia, Rem, and Beatrice, the story explores love, memory, and sacrifice in a world that doesn't care if you suffer.\n\nFor language learners, *Re:Zero* delivers modern Japanese with a twist: casual banter, noble formalities, and sharp emotional inflections are all on display. It's especially powerful for intermediate and advanced learners looking to immerse in dialogues heavy with subtext, desperation, and emotional nuance — a linguistic mirror of Subaru’s relentless, messy fight to survive."
   },
@@ -1641,76 +1688,77 @@
     "title": "Mob Psycho II",
     "slug": "mob-2",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753968884/mob2_hgtxqn.jpg",
-    "level": "JPLT N2",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N2",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        [
-  {
-    "number": 1,
-    "title": "Ripped Apart ~Someone Is Watching~",
-    "embedUrl": "https://youtu.be/J4HhR57N62A?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
-  },
-  {
-    "number": 2,
-    "title": "Urban Legends ~Encountering Rumors~",
-    "embedUrl": "https://youtu.be/9cPEUg0WaKc?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
-  },
-  {
-    "number": 3,
-    "title": "One Danger After Another ~Degeneration~",
-    "embedUrl": "https://youtu.be/373kunVjMNE?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
-  },
-  {
-    "number": 4,
-    "title": "Inside ~Evil Spirit~",
-    "embedUrl": "https://youtu.be/N0LpjvhFtd0?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
-  },
-  {
-    "number": 5,
-    "title": "Discord ~Choices~",
-    "embedUrl": "https://youtu.be/TvqceAGrJV4?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
-  },
-  {
-    "number": 6,
-    "title": "Poor, Lonely, Whitey",
-    "embedUrl": "https://youtu.be/dzgiBoJlmhQ?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
-  },
-  {
-    "number": 7,
-    "title": "Cornered ~True Identity~",
-    "embedUrl": "https://youtu.be/uTxV2F2ybuc?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
-  },
-  {
-    "number": 8,
-    "title": "Even Then ~Continue Forward~",
-    "embedUrl": "https://youtu.be/gP1HOpWIC9I?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
-  },
-  {
-    "number": 9,
-    "title": "Show Me What You've Got ~Band Together~",
-    "embedUrl": "https://youtu.be/cwn_X3-psgU?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
-  },
-  {
-    "number": 10,
-    "title": "Collision ~Power Type~",
-    "embedUrl": "https://youtu.be/FVPD3sHFD8c?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
-  },
-  {
-    "number": 11,
-    "title": "Guidance ~Psychic Sensor~",
-    "embedUrl": "https://youtu.be/P0Pw9WvQuHU?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
-  },
-  {
-    "number": 12,
-    "title": "The Battle for Social Rehabilitation ~Friendship~",
-    "embedUrl": "https://youtu.be/LMcPOoUo2vc?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
-  },
-  {
-    "number": 13,
-    "title": "Boss Fight ~The Final Light~",
-    "embedUrl": "https://youtu.be/pfAA0UCcyss?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
-  }
-]
+      {
+        "number": 1,
+        "title": "Ripped Apart ~Someone Is Watching~",
+        "embedUrl": "https://youtu.be/J4HhR57N62A?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
+      },
+      {
+        "number": 2,
+        "title": "Urban Legends ~Encountering Rumors~",
+        "embedUrl": "https://youtu.be/9cPEUg0WaKc?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
+      },
+      {
+        "number": 3,
+        "title": "One Danger After Another ~Degeneration~",
+        "embedUrl": "https://youtu.be/373kunVjMNE?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
+      },
+      {
+        "number": 4,
+        "title": "Inside ~Evil Spirit~",
+        "embedUrl": "https://youtu.be/N0LpjvhFtd0?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
+      },
+      {
+        "number": 5,
+        "title": "Discord ~Choices~",
+        "embedUrl": "https://youtu.be/TvqceAGrJV4?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
+      },
+      {
+        "number": 6,
+        "title": "Poor, Lonely, Whitey",
+        "embedUrl": "https://youtu.be/dzgiBoJlmhQ?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
+      },
+      {
+        "number": 7,
+        "title": "Cornered ~True Identity~",
+        "embedUrl": "https://youtu.be/uTxV2F2ybuc?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
+      },
+      {
+        "number": 8,
+        "title": "Even Then ~Continue Forward~",
+        "embedUrl": "https://youtu.be/gP1HOpWIC9I?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
+      },
+      {
+        "number": 9,
+        "title": "Show Me What You've Got ~Band Together~",
+        "embedUrl": "https://youtu.be/cwn_X3-psgU?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
+      },
+      {
+        "number": 10,
+        "title": "Collision ~Power Type~",
+        "embedUrl": "https://youtu.be/FVPD3sHFD8c?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
+      },
+      {
+        "number": 11,
+        "title": "Guidance ~Psychic Sensor~",
+        "embedUrl": "https://youtu.be/P0Pw9WvQuHU?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
+      },
+      {
+        "number": 12,
+        "title": "The Battle for Social Rehabilitation ~Friendship~",
+        "embedUrl": "https://youtu.be/LMcPOoUo2vc?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
+      },
+      {
+        "number": 13,
+        "title": "Boss Fight ~The Final Light~",
+        "embedUrl": "https://youtu.be/pfAA0UCcyss?list=PLwLSw1_eDZl2pVrny1PabF7J3AeOozZUS"
+      }
     ],
     "description": "Mob returns in *Mob Psycho 100 II*—older, stronger, and more emotionally aware. As his psychic powers evolve, so does the weight of using them. This season pushes deeper into Mob’s internal battles: his struggle with identity, the pressure to be 'special,' and the quiet strength of choosing kindness over power. With new threats, old friends, and moral gray zones, Mob’s journey becomes far more than just psychic showdowns.\n\nThe animation hits harder, the stakes get personal, and the message is razor-sharp: true growth isn’t about power levels — it’s about becoming someone you’re proud of. For learners, the dialogue weaves casual teen slang, intense emotional shifts, and bursts of formal vs. informal tone changes — making it an excellent series for picking up modern, expressive Japanese with heart and punch."
   },
@@ -1719,206 +1767,207 @@
     "title": "Jojo's bizarre Adventure - Diamond is Unbreakable",
     "slug": "jojo-diamond",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753969065/jojo4_sfkfje.jpg",
-    "level": "JPLT N2",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N2",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        [
-  {
-    "number": 1,
-    "title": "Jotaro Kujo! Meets Josuke Higashikata",
-    "embedUrl": "https://youtu.be/GApvZTBaYjk?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 2,
-    "title": "Josuke Higashikata! Meets Angelo",
-    "embedUrl": "https://youtu.be/J_qyibL44F0?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 3,
-    "title": "The Nijimura Brothers, Part 1",
-    "embedUrl": "https://youtu.be/nWQqk5ReB5Y?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 4,
-    "title": "The Nijimura Brothers, Part 2",
-    "embedUrl": "https://youtu.be/bwv4rsA3oss?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 5,
-    "title": "The Nijimura Brothers, Part 3",
-    "embedUrl": "https://youtu.be/Hgj08tvGvb4?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 6,
-    "title": "Koichi Hirose (Reverb)",
-    "embedUrl": "https://youtu.be/iVhsv1i7qmk?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 7,
-    "title": "Toshikazu Hazamada (Show Off)",
-    "embedUrl": "https://youtu.be/JEYJiyciX_0?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 8,
-    "title": "Yukako Yamagishi Falls in Love, Part 1",
-    "embedUrl": "https://youtu.be/7H7fax011JE?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 9,
-    "title": "Yukako Yamagishi Falls in Love, Part 2",
-    "embedUrl": "https://youtu.be/aWvV2pO8fNc?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 10,
-    "title": "Let's Go Eat Some Italian Food",
-    "embedUrl": "https://youtu.be/xFzBTTIuqIQ?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 11,
-    "title": "Chili Pepper, Part 1",
-    "embedUrl": "https://youtu.be/zIdgn-6m1cQ?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 12,
-    "title": "Chili Pepper, Part 2",
-    "embedUrl": "https://youtu.be/DVJTM-Iy06M?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 13,
-    "title": "We Picked Up Something Crazy!",
-    "embedUrl": "https://youtu.be/qcGMFlQJaTM?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 14,
-    "title": "Let's Go to the Manga Artist's House, Part 1",
-    "embedUrl": "https://youtu.be/Ta3Oh3L6KuA?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 15,
-    "title": "Let's Go to the Manga Artist's House, Part 2",
-    "embedUrl": "https://youtu.be/PHEq7NyGUYw?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 16,
-    "title": "Let's Go Hunting!",
-    "embedUrl": "https://youtu.be/yNTORUg5MRA?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 17,
-    "title": "Rohan Kishibe's Adventure",
-    "embedUrl": "https://youtu.be/uRkJ4edKBSo?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 18,
-    "title": "Shigechi's Harvest, Part 1",
-    "embedUrl": "https://youtu.be/8XB4YHCFNHk?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 19,
-    "title": "Shigechi's Harvest, Part 2",
-    "embedUrl": "https://youtu.be/PzS30XLY9iI?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 20,
-    "title": "Yukako Yamagishi Dreams of Cinderella",
-    "embedUrl": "https://youtu.be/cvrcN12swPw?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 21,
-    "title": "Yoshikage Kira Just Wants to Live Quietly, Part 1",
-    "embedUrl": "https://youtu.be/QJsEW1ycVJs?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 22,
-    "title": "Yoshikage Kira Just Wants to Live Quietly, Part 2",
-    "embedUrl": "https://youtu.be/2fj41DgiuZQ?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 23,
-    "title": "Heart Attack, Part 1",
-    "embedUrl": "https://youtu.be/BBKlkMYgl6w?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 24,
-    "title": "Heart Attack, Part 2",
-    "embedUrl": "https://youtu.be/XyEgpjh8lsc?si=HSKY2KFy0eHolTf0"
-  },
-  {
-    "number": 25,
-    "title": "Heart Father",
-    "embedUrl": "https://youtu.be/DkCvSVUjM8Q?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 26,
-    "title": "Janken Boy Is Coming!",
-    "embedUrl": "https://youtu.be/nhzPPOHXYHg?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 27,
-    "title": "I'm an Alien",
-    "embedUrl": "https://youtu.be/B_DEDRhlqKo?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 28,
-    "title": "Highway Go Go, Part 1",
-    "embedUrl": "https://youtu.be/DYxX0aWGZ2A?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 29,
-    "title": "Highway Go Go, Part 2",
-    "embedUrl": "https://youtu.be/NUCOU04h34s?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 30,
-    "title": "Cats Love Yoshikage Kira",
-    "embedUrl": "https://youtu.be/Qrrdw_Fk7zU?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 31,
-    "title": "July 15th (Thurs), Part 1",
-    "embedUrl": "https://youtu.be/1PFUZOhZ5ag?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 32,
-    "title": "July 15th (Thurs), Part 2",
-    "embedUrl": "https://youtu.be/crowpkDixbs?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 33,
-    "title": "July 15th (Thurs), Part 3",
-    "embedUrl": "https://youtu.be/Rq7Kb3dIbeA?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 34,
-    "title": "July 15th (Thurs), Part 4",
-    "embedUrl": "https://youtu.be/-QiwqOzI_eI?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 35,
-    "title": "Bites the Dust, Part 1",
-    "embedUrl": "https://youtu.be/V_YchWo6Juk?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 36,
-    "title": "Bites the Dust, Part 2",
-    "embedUrl": "https://youtu.be/ho3f_Hpsj3E?si=3eBdgBOOFeeS-24P"
-  },
-  {
-    "number": 37,
-    "title": "Shining D (Diamond) is Unbreakable, Part 1",
-    "embedUrl": "https://youtu.be/VtH6mkmcqSo?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 38,
-    "title": "Shining D (Diamond) is Unbreakable, Part 2",
-    "embedUrl": "https://youtu.be/r0xDsfgttG8?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  },
-  {
-    "number": 39,
-    "title": "Goodbye, Morioh – The Heart of Gold",
-    "embedUrl": "https://youtu.be/TvVjexI347M?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
-  }
-]
+      {
+        "number": 1,
+        "title": "Jotaro Kujo! Meets Josuke Higashikata",
+        "embedUrl": "https://youtu.be/GApvZTBaYjk?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 2,
+        "title": "Josuke Higashikata! Meets Angelo",
+        "embedUrl": "https://youtu.be/J_qyibL44F0?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 3,
+        "title": "The Nijimura Brothers, Part 1",
+        "embedUrl": "https://youtu.be/nWQqk5ReB5Y?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 4,
+        "title": "The Nijimura Brothers, Part 2",
+        "embedUrl": "https://youtu.be/bwv4rsA3oss?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 5,
+        "title": "The Nijimura Brothers, Part 3",
+        "embedUrl": "https://youtu.be/Hgj08tvGvb4?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 6,
+        "title": "Koichi Hirose (Reverb)",
+        "embedUrl": "https://youtu.be/iVhsv1i7qmk?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 7,
+        "title": "Toshikazu Hazamada (Show Off)",
+        "embedUrl": "https://youtu.be/JEYJiyciX_0?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 8,
+        "title": "Yukako Yamagishi Falls in Love, Part 1",
+        "embedUrl": "https://youtu.be/7H7fax011JE?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 9,
+        "title": "Yukako Yamagishi Falls in Love, Part 2",
+        "embedUrl": "https://youtu.be/aWvV2pO8fNc?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 10,
+        "title": "Let's Go Eat Some Italian Food",
+        "embedUrl": "https://youtu.be/xFzBTTIuqIQ?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 11,
+        "title": "Chili Pepper, Part 1",
+        "embedUrl": "https://youtu.be/zIdgn-6m1cQ?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 12,
+        "title": "Chili Pepper, Part 2",
+        "embedUrl": "https://youtu.be/DVJTM-Iy06M?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 13,
+        "title": "We Picked Up Something Crazy!",
+        "embedUrl": "https://youtu.be/qcGMFlQJaTM?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 14,
+        "title": "Let's Go to the Manga Artist's House, Part 1",
+        "embedUrl": "https://youtu.be/Ta3Oh3L6KuA?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 15,
+        "title": "Let's Go to the Manga Artist's House, Part 2",
+        "embedUrl": "https://youtu.be/PHEq7NyGUYw?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 16,
+        "title": "Let's Go Hunting!",
+        "embedUrl": "https://youtu.be/yNTORUg5MRA?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 17,
+        "title": "Rohan Kishibe's Adventure",
+        "embedUrl": "https://youtu.be/uRkJ4edKBSo?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 18,
+        "title": "Shigechi's Harvest, Part 1",
+        "embedUrl": "https://youtu.be/8XB4YHCFNHk?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 19,
+        "title": "Shigechi's Harvest, Part 2",
+        "embedUrl": "https://youtu.be/PzS30XLY9iI?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 20,
+        "title": "Yukako Yamagishi Dreams of Cinderella",
+        "embedUrl": "https://youtu.be/cvrcN12swPw?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 21,
+        "title": "Yoshikage Kira Just Wants to Live Quietly, Part 1",
+        "embedUrl": "https://youtu.be/QJsEW1ycVJs?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 22,
+        "title": "Yoshikage Kira Just Wants to Live Quietly, Part 2",
+        "embedUrl": "https://youtu.be/2fj41DgiuZQ?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 23,
+        "title": "Heart Attack, Part 1",
+        "embedUrl": "https://youtu.be/BBKlkMYgl6w?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 24,
+        "title": "Heart Attack, Part 2",
+        "embedUrl": "https://youtu.be/XyEgpjh8lsc?si=HSKY2KFy0eHolTf0"
+      },
+      {
+        "number": 25,
+        "title": "Heart Father",
+        "embedUrl": "https://youtu.be/DkCvSVUjM8Q?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 26,
+        "title": "Janken Boy Is Coming!",
+        "embedUrl": "https://youtu.be/nhzPPOHXYHg?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 27,
+        "title": "I'm an Alien",
+        "embedUrl": "https://youtu.be/B_DEDRhlqKo?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 28,
+        "title": "Highway Go Go, Part 1",
+        "embedUrl": "https://youtu.be/DYxX0aWGZ2A?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 29,
+        "title": "Highway Go Go, Part 2",
+        "embedUrl": "https://youtu.be/NUCOU04h34s?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 30,
+        "title": "Cats Love Yoshikage Kira",
+        "embedUrl": "https://youtu.be/Qrrdw_Fk7zU?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 31,
+        "title": "July 15th (Thurs), Part 1",
+        "embedUrl": "https://youtu.be/1PFUZOhZ5ag?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 32,
+        "title": "July 15th (Thurs), Part 2",
+        "embedUrl": "https://youtu.be/crowpkDixbs?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 33,
+        "title": "July 15th (Thurs), Part 3",
+        "embedUrl": "https://youtu.be/Rq7Kb3dIbeA?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 34,
+        "title": "July 15th (Thurs), Part 4",
+        "embedUrl": "https://youtu.be/-QiwqOzI_eI?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 35,
+        "title": "Bites the Dust, Part 1",
+        "embedUrl": "https://youtu.be/V_YchWo6Juk?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 36,
+        "title": "Bites the Dust, Part 2",
+        "embedUrl": "https://youtu.be/ho3f_Hpsj3E?si=3eBdgBOOFeeS-24P"
+      },
+      {
+        "number": 37,
+        "title": "Shining D (Diamond) is Unbreakable, Part 1",
+        "embedUrl": "https://youtu.be/VtH6mkmcqSo?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 38,
+        "title": "Shining D (Diamond) is Unbreakable, Part 2",
+        "embedUrl": "https://youtu.be/r0xDsfgttG8?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      },
+      {
+        "number": 39,
+        "title": "Goodbye, Morioh – The Heart of Gold",
+        "embedUrl": "https://youtu.be/TvVjexI347M?list=PLwLSw1_eDZl0jARZZpGq5kcYDDQXZ0wZb"
+      }
     ],
     "description": "Set in the quiet town of Morioh, *Diamond is Unbreakable* flips the JoJo formula into a supernatural slice-of-life mystery. High schooler Josuke Higashikata (illegitimate son of Joseph Joestar) and his Stand-wielding crew uncover bizarre events, eccentric enemies, and a chilling serial killer hiding among them. It’s less world-ending battles, more psychic street fights, surreal humor, and stylish chaos layered over suburban horror.\n\nThis part sharpens Araki’s shift from brute force to strategy — every Stand is a puzzle, every encounter a mind game. Josuke’s Stand, Crazy Diamond, doesn’t just smash — it heals, leading to creative battles full of reversals and wit. For learners, *Diamond is Unbreakable* brings expressive, exaggerated speech, unique one-liners, and distinct character quirks that make picking up casual and dramatic Japanese fun, wild, and unforgettable."
   },
@@ -1927,76 +1976,77 @@
     "title": "Ippon Again!",
     "slug": "ippon-again",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753969295/ippon_qg40fg.webp",
-    "level": "JPLT N4",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N4",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        [
-  {
-    "number": 1,
-    "title": "I Want to Do Judo Again!",
-    "embedUrl": "https://youtu.be/KFVDrnH4Uwc?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
-  },
-  {
-    "number": 2,
-    "title": "I Want to Win!",
-    "embedUrl": "https://youtu.be/IAQADUb_df0?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
-  },
-  {
-    "number": 3,
-    "title": "We're a Team!",
-    "embedUrl": "https://youtu.be/TkwXMa7gJHs?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
-  },
-  {
-    "number": 4,
-    "title": "I'm Not the Same as Back Then!",
-    "embedUrl": "https://youtu.be/6tDHa5mB5v0?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
-  },
-  {
-    "number": 5,
-    "title": "We’re All Starting Over!",
-    "embedUrl": "https://youtu.be/omrBWLTy85s?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
-  },
-  {
-    "number": 6,
-    "title": "The Training Camp Begins!",
-    "embedUrl": "https://youtu.be/pNXtm33xqXE?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
-  },
-  {
-    "number": 7,
-    "title": "We’re the Strongest Team!",
-    "embedUrl": "https://youtu.be/eM8xU2Akbww?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
-  },
-  {
-    "number": 8,
-    "title": "Ippon Girls Have Pride!",
-    "embedUrl": "https://youtu.be/PsL-EL6rTxc?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
-  },
-  {
-    "number": 9,
-    "title": "A Match With a Friend!",
-    "embedUrl": "https://youtu.be/X9Y3hb6MO44?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
-  },
-  {
-    "number": 10,
-    "title": "Ippon Is Our Goal!",
-    "embedUrl": "https://youtu.be/iCOGWtpT9RI?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
-  },
-  {
-    "number": 11,
-    "title": "The Semifinals!",
-    "embedUrl": "https://youtu.be/dW81BDnu1JI?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
-  },
-  {
-    "number": 12,
-    "title": "Our Judo",
-    "embedUrl": "https://youtu.be/PPb2ck3JCm4?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
-  },
-  {
-    "number": 13,
-    "title": "I’m Glad I Did Judo!",
-    "embedUrl": "https://youtu.be/zGnbqe_LdxU?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
-  }
-]
+      {
+        "number": 1,
+        "title": "I Want to Do Judo Again!",
+        "embedUrl": "https://youtu.be/KFVDrnH4Uwc?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
+      },
+      {
+        "number": 2,
+        "title": "I Want to Win!",
+        "embedUrl": "https://youtu.be/IAQADUb_df0?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
+      },
+      {
+        "number": 3,
+        "title": "We're a Team!",
+        "embedUrl": "https://youtu.be/TkwXMa7gJHs?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
+      },
+      {
+        "number": 4,
+        "title": "I'm Not the Same as Back Then!",
+        "embedUrl": "https://youtu.be/6tDHa5mB5v0?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
+      },
+      {
+        "number": 5,
+        "title": "We’re All Starting Over!",
+        "embedUrl": "https://youtu.be/omrBWLTy85s?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
+      },
+      {
+        "number": 6,
+        "title": "The Training Camp Begins!",
+        "embedUrl": "https://youtu.be/pNXtm33xqXE?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
+      },
+      {
+        "number": 7,
+        "title": "We’re the Strongest Team!",
+        "embedUrl": "https://youtu.be/eM8xU2Akbww?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
+      },
+      {
+        "number": 8,
+        "title": "Ippon Girls Have Pride!",
+        "embedUrl": "https://youtu.be/PsL-EL6rTxc?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
+      },
+      {
+        "number": 9,
+        "title": "A Match With a Friend!",
+        "embedUrl": "https://youtu.be/X9Y3hb6MO44?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
+      },
+      {
+        "number": 10,
+        "title": "Ippon Is Our Goal!",
+        "embedUrl": "https://youtu.be/iCOGWtpT9RI?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
+      },
+      {
+        "number": 11,
+        "title": "The Semifinals!",
+        "embedUrl": "https://youtu.be/dW81BDnu1JI?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
+      },
+      {
+        "number": 12,
+        "title": "Our Judo",
+        "embedUrl": "https://youtu.be/PPb2ck3JCm4?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
+      },
+      {
+        "number": 13,
+        "title": "I’m Glad I Did Judo!",
+        "embedUrl": "https://youtu.be/zGnbqe_LdxU?list=PLwLSw1_eDZl2GTD5eb1FOEFT-OPoVhIjJ"
+      }
     ],
     "description": "In *Ippon Again!*, the spotlight falls on a high school girls’ judo team — not the elite champions, but the underdogs rebuilding from scratch. After vowing to quit the sport post-middle school, Michi Sonoda finds herself pulled back in by a passion she thought she’d outgrown. What follows is a grounded, character-driven sports story about friendship, commitment, and finding joy in the fight, win or lose.\n\nRather than flashy tournaments, *Ippon Again!* focuses on small victories, discipline, and the emotional grind of team growth. The judo scenes are technically accurate, the character arcs refreshingly human, and the tone heartfelt without being preachy. For learners, it’s a solid mix of school life dialogue, sports-specific terminology, and emotional conversations — ideal for anyone wanting immersion through sincere slice-of-life storytelling with grit."
   },
@@ -2005,76 +2055,77 @@
     "title": "Black Bullet",
     "slug": "black-bullet",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753969495/black_qimwdb.webp",
-    "level": "JPLT N3",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N3",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        [
-  {
-    "number": 1,
-    "title": "The Last Hope",
-    "embedUrl": "https://youtu.be/5Soz2cBGCF8?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
-  },
-  {
-    "number": 2,
-    "title": "The Mask of Madness",
-    "embedUrl": "https://youtu.be/7iB5k8DEnfQ?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
-  },
-  {
-    "number": 3,
-    "title": "The Children of Fate",
-    "embedUrl": "https://youtu.be/hCg0VZegoFk?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
-  },
-  {
-    "number": 4,
-    "title": "The Crimson Black Assassin",
-    "embedUrl": "https://youtu.be/yhr7iaouL2s?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
-  },
-  {
-    "number": 5,
-    "title": "The Crimson Black Assassin Returns",
-    "embedUrl": "https://youtu.be/5YpTH_O2g7g?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
-  },
-  {
-    "number": 6,
-    "title": "Tragic Irony",
-    "embedUrl": "https://youtu.be/pwfQh471eZY?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
-  },
-  {
-    "number": 7,
-    "title": "Chronostasis",
-    "embedUrl": "https://youtu.be/OK7Mf49msTA?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
-  },
-  {
-    "number": 8,
-    "title": "The Monument on the Border",
-    "embedUrl": "https://youtu.be/-CZ8tpRjRUA?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
-  },
-  {
-    "number": 9,
-    "title": "The Cursed Legacy",
-    "embedUrl": "https://youtu.be/OulD_z2h_DE?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
-  },
-  {
-    "number": 10,
-    "title": "Tokyo Area Defensive Battle",
-    "embedUrl": "https://youtu.be/Ret1P_TYbnw?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
-  },
-  {
-    "number": 11,
-    "title": "The Heart of Weakness",
-    "embedUrl": "https://youtu.be/dvNOhsKprUI?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
-  },
-  {
-    "number": 12,
-    "title": "The Law of Truth",
-    "embedUrl": "https://youtu.be/HVj5okyRFjI?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
-  },
-  {
-    "number": 13,
-    "title": "Faith",
-    "embedUrl": "https://youtu.be/rBYrT1uFHHo?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
-  }
-]
+      {
+        "number": 1,
+        "title": "The Last Hope",
+        "embedUrl": "https://youtu.be/5Soz2cBGCF8?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
+      },
+      {
+        "number": 2,
+        "title": "The Mask of Madness",
+        "embedUrl": "https://youtu.be/7iB5k8DEnfQ?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
+      },
+      {
+        "number": 3,
+        "title": "The Children of Fate",
+        "embedUrl": "https://youtu.be/hCg0VZegoFk?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
+      },
+      {
+        "number": 4,
+        "title": "The Crimson Black Assassin",
+        "embedUrl": "https://youtu.be/yhr7iaouL2s?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
+      },
+      {
+        "number": 5,
+        "title": "The Crimson Black Assassin Returns",
+        "embedUrl": "https://youtu.be/5YpTH_O2g7g?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
+      },
+      {
+        "number": 6,
+        "title": "Tragic Irony",
+        "embedUrl": "https://youtu.be/pwfQh471eZY?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
+      },
+      {
+        "number": 7,
+        "title": "Chronostasis",
+        "embedUrl": "https://youtu.be/OK7Mf49msTA?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
+      },
+      {
+        "number": 8,
+        "title": "The Monument on the Border",
+        "embedUrl": "https://youtu.be/-CZ8tpRjRUA?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
+      },
+      {
+        "number": 9,
+        "title": "The Cursed Legacy",
+        "embedUrl": "https://youtu.be/OulD_z2h_DE?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
+      },
+      {
+        "number": 10,
+        "title": "Tokyo Area Defensive Battle",
+        "embedUrl": "https://youtu.be/Ret1P_TYbnw?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
+      },
+      {
+        "number": 11,
+        "title": "The Heart of Weakness",
+        "embedUrl": "https://youtu.be/dvNOhsKprUI?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
+      },
+      {
+        "number": 12,
+        "title": "The Law of Truth",
+        "embedUrl": "https://youtu.be/HVj5okyRFjI?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
+      },
+      {
+        "number": 13,
+        "title": "Faith",
+        "embedUrl": "https://youtu.be/rBYrT1uFHHo?list=PLwLSw1_eDZl1_e_EKh4oVFriW8um3TKY6"
+      }
     ],
     "description": "In a future ravaged by the Gastrea virus, humanity teeters on the edge of extinction, forced to live behind monoliths of metal. *Black Bullet* follows Rentaro, a young Promoter, and his Initiator partner Enju — a cursed child born with the virus but wielding superhuman powers. Together, they fight to suppress the monstrous Gastrea and the darkness festering within human society itself.\n\n*Black Bullet* blends dystopian action with moral ambiguity, exploring the cost of survival, the discrimination faced by cursed children, and the fine line between heroism and hypocrisy. It’s fast-paced, brutal, and emotionally charged, with high-stakes battles and moments of quiet despair. For learners, the show delivers military terms, formal government-speak, emotional outbursts, and ethical debates — offering an intense mix of action Japanese and layered conversation."
   },
@@ -2083,71 +2134,72 @@
     "title": "Just Because!",
     "slug": "just-because",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753969757/justbecause_k927p2.webp",
-    "level": "JPLT N4",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N4",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        [
-  {
-    "number": 1,
-    "title": "On Your Marks!",
-    "embedUrl": "https://youtu.be/EqJh3DbP0W4?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
-  },
-  {
-    "number": 2,
-    "title": "Question",
-    "embedUrl": "https://youtu.be/XlFiiqigFRQ?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
-  },
-  {
-    "number": 3,
-    "title": "Andante",
-    "embedUrl": "https://youtu.be/tBy0487fG24?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
-  },
-  {
-    "number": 4,
-    "title": "Full Swing",
-    "embedUrl": "https://youtu.be/G4W0b31LPW4?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
-  },
-  {
-    "number": 5,
-    "title": "Rolling Stones",
-    "embedUrl": "https://youtu.be/Qb43-6nltic?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
-  },
-  {
-    "number": 6,
-    "title": "Restart",
-    "embedUrl": "https://youtu.be/hlRxdv8N4yA?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
-  },
-  {
-    "number": 7,
-    "title": "Snow Day",
-    "embedUrl": "https://youtu.be/t0DlbCoUPYU?si=8-q46hAsRBPZAWob"
-  },
-  {
-    "number": 8,
-    "title": "Winter Triangle",
-    "embedUrl": "https://youtu.be/FNGgCbUhtjg?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
-  },
-  {
-    "number": 9,
-    "title": "Answer",
-    "embedUrl": "https://youtu.be/rxqfY9V0w1M?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
-  },
-  {
-    "number": 10,
-    "title": "Memory",
-    "embedUrl": "https://youtu.be/1Y-7ZWg7bp4?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
-  },
-  {
-    "number": 11,
-    "title": "Get Set, Go!",
-    "embedUrl": "https://youtu.be/0pC59BW0k2c?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
-  },
-  {
-    "number": 12,
-    "title": "Spring Is Just Around the Corner",
-    "embedUrl": "https://youtu.be/rWPmb-8wLHY?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
-  }
-]
+      {
+        "number": 1,
+        "title": "On Your Marks!",
+        "embedUrl": "https://youtu.be/EqJh3DbP0W4?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
+      },
+      {
+        "number": 2,
+        "title": "Question",
+        "embedUrl": "https://youtu.be/XlFiiqigFRQ?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
+      },
+      {
+        "number": 3,
+        "title": "Andante",
+        "embedUrl": "https://youtu.be/tBy0487fG24?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
+      },
+      {
+        "number": 4,
+        "title": "Full Swing",
+        "embedUrl": "https://youtu.be/G4W0b31LPW4?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
+      },
+      {
+        "number": 5,
+        "title": "Rolling Stones",
+        "embedUrl": "https://youtu.be/Qb43-6nltic?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
+      },
+      {
+        "number": 6,
+        "title": "Restart",
+        "embedUrl": "https://youtu.be/hlRxdv8N4yA?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
+      },
+      {
+        "number": 7,
+        "title": "Snow Day",
+        "embedUrl": "https://youtu.be/t0DlbCoUPYU?si=8-q46hAsRBPZAWob"
+      },
+      {
+        "number": 8,
+        "title": "Winter Triangle",
+        "embedUrl": "https://youtu.be/FNGgCbUhtjg?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
+      },
+      {
+        "number": 9,
+        "title": "Answer",
+        "embedUrl": "https://youtu.be/rxqfY9V0w1M?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
+      },
+      {
+        "number": 10,
+        "title": "Memory",
+        "embedUrl": "https://youtu.be/1Y-7ZWg7bp4?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
+      },
+      {
+        "number": 11,
+        "title": "Get Set, Go!",
+        "embedUrl": "https://youtu.be/0pC59BW0k2c?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
+      },
+      {
+        "number": 12,
+        "title": "Spring Is Just Around the Corner",
+        "embedUrl": "https://youtu.be/rWPmb-8wLHY?list=PLwLSw1_eDZl1XlieID8l9lhZQ_r1mBCzZ"
+      }
     ],
     "description": "*Just Because!* captures the quiet, uncertain ache of high school’s final months — when time runs out but feelings linger. As transfer student Eita returns unexpectedly, he stirs old friendships, unresolved crushes, and the subtle tensions between what could’ve been and what might still be. It’s not about dramatic confessions or over-the-top romance — it’s about silence, timing, and the weight of things left unsaid.\n\nThe series excels at stillness — glances, pauses, and background noise speak louder than words. Every character is navigating their own crossroads, from exams to relationships to regrets. For learners, *Just Because!* offers natural, subdued conversational Japanese with authentic school slang, emotionally restrained dialogue, and slice-of-life realism — ideal for immersion in nuanced, everyday speech with real emotional depth."
   },
@@ -2156,71 +2208,72 @@
     "title": "Sabikui Bisco",
     "slug": "sabikui-bisco",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753970042/sabbisco_jbtl4t.webp",
-    "level": "JPLT N3",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N3",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        [
-  {
-    "number": 1,
-    "title": "The Man Worth 800,000",
-    "embedUrl": "https://youtu.be/qBHbguhoDgU?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
-  },
-  {
-    "number": 2,
-    "title": "Soar on King Trumpets",
-    "embedUrl": "https://youtu.be/GJBzNTBDnXc?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
-  },
-  {
-    "number": 3,
-    "title": "Tag Team",
-    "embedUrl": "https://youtu.be/Sb0AeQPuG3Q?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
-  },
-  {
-    "number": 4,
-    "title": "Ride the Crab",
-    "embedUrl": "https://youtu.be/jEvlqdHS8k8?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
-  },
-  {
-    "number": 5,
-    "title": "Children’s Fortress",
-    "embedUrl": "https://youtu.be/ZyHi-Vs8Sc0?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
-  },
-  {
-    "number": 6,
-    "title": "Companions and Prey",
-    "embedUrl": "https://youtu.be/coRNjKC8PRs?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
-  },
-  {
-    "number": 7,
-    "title": "Fiendish Trap",
-    "embedUrl": "https://youtu.be/nXXb54kzJLU?si=UCmmyNp4IXQqWuOW"
-  },
-  {
-    "number": 8,
-    "title": "Sorrow, Love, and the Future",
-    "embedUrl": "https://youtu.be/JANuBnHfvRs?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
-  },
-  {
-    "number": 9,
-    "title": "I Love You",
-    "embedUrl": "https://youtu.be/FWjx8w0_sj4?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
-  },
-  {
-    "number": 10,
-    "title": "Tetsujin, Activated",
-    "embedUrl": "https://youtu.be/vDisd23SgFk?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
-  },
-  {
-    "number": 11,
-    "title": "I'm Bisco!",
-    "embedUrl": "https://youtu.be/5ceHlQlYlys?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
-  },
-  {
-    "number": 12,
-    "title": "Bow and Arrow Duo",
-    "embedUrl": "https://youtu.be/7lqwD4K6BCo?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
-  }
-]
+      {
+        "number": 1,
+        "title": "The Man Worth 800,000",
+        "embedUrl": "https://youtu.be/qBHbguhoDgU?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
+      },
+      {
+        "number": 2,
+        "title": "Soar on King Trumpets",
+        "embedUrl": "https://youtu.be/GJBzNTBDnXc?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
+      },
+      {
+        "number": 3,
+        "title": "Tag Team",
+        "embedUrl": "https://youtu.be/Sb0AeQPuG3Q?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
+      },
+      {
+        "number": 4,
+        "title": "Ride the Crab",
+        "embedUrl": "https://youtu.be/jEvlqdHS8k8?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
+      },
+      {
+        "number": 5,
+        "title": "Children’s Fortress",
+        "embedUrl": "https://youtu.be/ZyHi-Vs8Sc0?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
+      },
+      {
+        "number": 6,
+        "title": "Companions and Prey",
+        "embedUrl": "https://youtu.be/coRNjKC8PRs?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
+      },
+      {
+        "number": 7,
+        "title": "Fiendish Trap",
+        "embedUrl": "https://youtu.be/nXXb54kzJLU?si=UCmmyNp4IXQqWuOW"
+      },
+      {
+        "number": 8,
+        "title": "Sorrow, Love, and the Future",
+        "embedUrl": "https://youtu.be/JANuBnHfvRs?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
+      },
+      {
+        "number": 9,
+        "title": "I Love You",
+        "embedUrl": "https://youtu.be/FWjx8w0_sj4?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
+      },
+      {
+        "number": 10,
+        "title": "Tetsujin, Activated",
+        "embedUrl": "https://youtu.be/vDisd23SgFk?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
+      },
+      {
+        "number": 11,
+        "title": "I'm Bisco!",
+        "embedUrl": "https://youtu.be/5ceHlQlYlys?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
+      },
+      {
+        "number": 12,
+        "title": "Bow and Arrow Duo",
+        "embedUrl": "https://youtu.be/7lqwD4K6BCo?list=PLwLSw1_eDZl3wnGEqGVQDhDlyDLviOhCx"
+      }
     ],
     "description": "*Sabikui Bisco* throws you headfirst into a post-apocalyptic Japan blanketed in rust — a disease that devours both metal and flesh. Amid this decaying world, a hotheaded mushroom-throwing terrorist named Bisco and a gentle doctor named Milo team up to find the legendary Rust-Eater mushroom. What follows is a chaotic, visually wild adventure packed with absurdity, heart, and high-octane battles.\n\nEqual parts Mad Max and shroom-fueled fever dream, the series balances its insane worldbuilding with a surprisingly emotional core. It's a story about brotherhood, rebellion, and saving the world in the most unhinged way possible. For learners, expect eccentric vocabulary, slang-laced action banter, and intense emotional dialogue — great for advanced learners looking to decode rapid-fire speech in an unconventional setting."
   },
@@ -2229,71 +2282,72 @@
     "title": "Luck and Logic",
     "slug": "luck-logic",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753970161/luck_t83w6z.webp",
-    "level": "JPLT N3",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N3",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        [
-  {
-    "number": 1,
-    "title": "Belief and Logic",
-    "embedUrl": "https://youtu.be/NnRmUFuL4Dc?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
-  },
-  {
-    "number": 2,
-    "title": "Fighting Oneself",
-    "embedUrl": "https://youtu.be/mWXtl8BYgDk?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
-  },
-  {
-    "number": 3,
-    "title": "Reason and Feelings",
-    "embedUrl": "https://youtu.be/EAcWesQG5gs?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
-  },
-  {
-    "number": 4,
-    "title": "Freedom and Constraint",
-    "embedUrl": "https://youtu.be/RZdJiLwpcAI?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
-  },
-  {
-    "number": 5,
-    "title": "Despair and Hope",
-    "embedUrl": "https://youtu.be/k3gPXCv2MeQ?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
-  },
-  {
-    "number": 6,
-    "title": "Genius and Malice",
-    "embedUrl": "https://youtu.be/JEAzlr3Ge1E?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
-  },
-  {
-    "number": 7,
-    "title": "Past and Future",
-    "embedUrl": "https://youtu.be/4i71ClGpS1k?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
-  },
-  {
-    "number": 8,
-    "title": "Enemies and Allies",
-    "embedUrl": "https://youtu.be/-qJoBjajuo8?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
-  },
-  {
-    "number": 9,
-    "title": "Duty and Pride",
-    "embedUrl": "https://youtu.be/zvhNQ_I87YI?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
-  },
-  {
-    "number": 10,
-    "title": "Yesterday and Today",
-    "embedUrl": "https://youtu.be/AndC3Yidwto?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
-  },
-  {
-    "number": 11,
-    "title": "Counterattack and Revenge",
-    "embedUrl": "https://youtu.be/ByYGcxFw7-k?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
-  },
-  {
-    "number": 12,
-    "title": "Luck and Logic",
-    "embedUrl": "https://youtu.be/Krq2C5qnX50?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
-  }
-]
+      {
+        "number": 1,
+        "title": "Belief and Logic",
+        "embedUrl": "https://youtu.be/NnRmUFuL4Dc?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
+      },
+      {
+        "number": 2,
+        "title": "Fighting Oneself",
+        "embedUrl": "https://youtu.be/mWXtl8BYgDk?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
+      },
+      {
+        "number": 3,
+        "title": "Reason and Feelings",
+        "embedUrl": "https://youtu.be/EAcWesQG5gs?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
+      },
+      {
+        "number": 4,
+        "title": "Freedom and Constraint",
+        "embedUrl": "https://youtu.be/RZdJiLwpcAI?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
+      },
+      {
+        "number": 5,
+        "title": "Despair and Hope",
+        "embedUrl": "https://youtu.be/k3gPXCv2MeQ?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
+      },
+      {
+        "number": 6,
+        "title": "Genius and Malice",
+        "embedUrl": "https://youtu.be/JEAzlr3Ge1E?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
+      },
+      {
+        "number": 7,
+        "title": "Past and Future",
+        "embedUrl": "https://youtu.be/4i71ClGpS1k?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
+      },
+      {
+        "number": 8,
+        "title": "Enemies and Allies",
+        "embedUrl": "https://youtu.be/-qJoBjajuo8?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
+      },
+      {
+        "number": 9,
+        "title": "Duty and Pride",
+        "embedUrl": "https://youtu.be/zvhNQ_I87YI?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
+      },
+      {
+        "number": 10,
+        "title": "Yesterday and Today",
+        "embedUrl": "https://youtu.be/AndC3Yidwto?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
+      },
+      {
+        "number": 11,
+        "title": "Counterattack and Revenge",
+        "embedUrl": "https://youtu.be/ByYGcxFw7-k?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
+      },
+      {
+        "number": 12,
+        "title": "Luck and Logic",
+        "embedUrl": "https://youtu.be/Krq2C5qnX50?list=PLwLSw1_eDZl3FbMdfz-wzxlhpm-FTf2oS"
+      }
     ],
     "description": "*Luck & Logic* drops you into a world where reality and myth collide — literally. After a dimensional crisis unleashes gods and demons into human society, special agents called Logicalists partner with goddesses from the other world to maintain balance. Protagonist Yoshichika, once retired, is forced back into action when he reclaims his lost Logic and forms a pact with the enigmatic Athena.\n\nThe show mixes fast-paced tactical battles with philosophical undercurrents about fate, belief, and what gives a person power — logic or emotion. While not always emotionally grounded, it offers sleek animation, a unique card-based combat system, and a high-concept setting. For learners, expect a blend of formal terminology, military speak, and fantasy jargon, making it a solid watch for intermediate learners seeking action-heavy immersion with layered language."
   },
@@ -2302,131 +2356,132 @@
     "title": "That Time I Got Reincarnated As A Slime - Season 2",
     "slug": "slime-s2",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753970305/slimes2_wgpz7z.jpg",
-    "level": "JPLT N3",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N3",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        [
-  {
-    "number": 1,
-    "title": "Rimuru's Busy Life",
-    "embedUrl": "https://youtu.be/E1V4fN149CY?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 2,
-    "title": "Trade with the Animal Kingdom",
-    "embedUrl": "https://youtu.be/fvWzhcU6DOc?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 3,
-    "title": "Paradise, Once More",
-    "embedUrl": "https://youtu.be/ydDgzVMQGBw?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 4,
-    "title": "The Scheming Kingdom of Falmuth",
-    "embedUrl": "https://youtu.be/m8r_W_sS38Q?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 5,
-    "title": "Prelude to the Disaster",
-    "embedUrl": "https://youtu.be/yq2vPRKAfYQ?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 6,
-    "title": "The Beauty Makes Her Move",
-    "embedUrl": "https://youtu.be/UcJDcArEMGg?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 7,
-    "title": "Despair",
-    "embedUrl": "https://youtu.be/ouhp642g5jc?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 8,
-    "title": "Hope",
-    "embedUrl": "https://youtu.be/vVH3tQCfbY0?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 9,
-    "title": "Putting Everything on the Line",
-    "embedUrl": "https://youtu.be/SUQkEzvbBdw?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 10,
-    "title": "Megiddo",
-    "embedUrl": "https://youtu.be/54h2dDe1hPo?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 11,
-    "title": "Birth of a Demon Lord",
-    "embedUrl": "https://youtu.be/gokGy2pnmjo?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 12,
-    "title": "The One Unleashed",
-    "embedUrl": "https://youtu.be/TJ4lXhVdlyU?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 13,
-    "title": "The Visitors",
-    "embedUrl": "https://youtu.be/YGOVlPf1ExY?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 14,
-    "title": "A Meeting of Humans and Monsters",
-    "embedUrl": "https://youtu.be/ME91tupokao?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 15,
-    "title": "Demon Lords' Banquet ~Walpurgis~",
-    "embedUrl": "https://youtu.be/qQHOFkC-b4g?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 16,
-    "title": "The Congress Dances",
-    "embedUrl": "https://youtu.be/wnrc20UlWU4?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 17,
-    "title": "The Eve of Battle",
-    "embedUrl": "https://youtu.be/IhonHr4GZe4?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 18,
-    "title": "The Demon Lords",
-    "embedUrl": "https://youtu.be/qWJAaHXAi10?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 19,
-    "title": "The Signal to Begin the Banquet",
-    "embedUrl": "https://youtu.be/Oc2R81S5icM?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 20,
-    "title": "On This Land Where It All Happened",
-    "embedUrl": "https://youtu.be/Ig9DvsgfnHg?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 21,
-    "title": "The Birth of a New Demon Lord",
-    "embedUrl": "https://youtu.be/K02ReLrfODQ?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 22,
-    "title": "Demon Lords' Banquet",
-    "embedUrl": "https://youtu.be/nMP-kgNIUe0?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 23,
-    "title": "Returning from the Brink",
-    "embedUrl": "https://youtu.be/xUjatudj-xY?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  },
-  {
-    "number": 24,
-    "title": "Octagram",
-    "embedUrl": "https://youtu.be/8RpCLKoa3_A?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
-  }
-]
+      {
+        "number": 1,
+        "title": "Rimuru's Busy Life",
+        "embedUrl": "https://youtu.be/E1V4fN149CY?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 2,
+        "title": "Trade with the Animal Kingdom",
+        "embedUrl": "https://youtu.be/fvWzhcU6DOc?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 3,
+        "title": "Paradise, Once More",
+        "embedUrl": "https://youtu.be/ydDgzVMQGBw?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 4,
+        "title": "The Scheming Kingdom of Falmuth",
+        "embedUrl": "https://youtu.be/m8r_W_sS38Q?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 5,
+        "title": "Prelude to the Disaster",
+        "embedUrl": "https://youtu.be/yq2vPRKAfYQ?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 6,
+        "title": "The Beauty Makes Her Move",
+        "embedUrl": "https://youtu.be/UcJDcArEMGg?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 7,
+        "title": "Despair",
+        "embedUrl": "https://youtu.be/ouhp642g5jc?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 8,
+        "title": "Hope",
+        "embedUrl": "https://youtu.be/vVH3tQCfbY0?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 9,
+        "title": "Putting Everything on the Line",
+        "embedUrl": "https://youtu.be/SUQkEzvbBdw?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 10,
+        "title": "Megiddo",
+        "embedUrl": "https://youtu.be/54h2dDe1hPo?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 11,
+        "title": "Birth of a Demon Lord",
+        "embedUrl": "https://youtu.be/gokGy2pnmjo?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 12,
+        "title": "The One Unleashed",
+        "embedUrl": "https://youtu.be/TJ4lXhVdlyU?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 13,
+        "title": "The Visitors",
+        "embedUrl": "https://youtu.be/YGOVlPf1ExY?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 14,
+        "title": "A Meeting of Humans and Monsters",
+        "embedUrl": "https://youtu.be/ME91tupokao?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 15,
+        "title": "Demon Lords' Banquet ~Walpurgis~",
+        "embedUrl": "https://youtu.be/qQHOFkC-b4g?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 16,
+        "title": "The Congress Dances",
+        "embedUrl": "https://youtu.be/wnrc20UlWU4?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 17,
+        "title": "The Eve of Battle",
+        "embedUrl": "https://youtu.be/IhonHr4GZe4?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 18,
+        "title": "The Demon Lords",
+        "embedUrl": "https://youtu.be/qWJAaHXAi10?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 19,
+        "title": "The Signal to Begin the Banquet",
+        "embedUrl": "https://youtu.be/Oc2R81S5icM?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 20,
+        "title": "On This Land Where It All Happened",
+        "embedUrl": "https://youtu.be/Ig9DvsgfnHg?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 21,
+        "title": "The Birth of a New Demon Lord",
+        "embedUrl": "https://youtu.be/K02ReLrfODQ?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 22,
+        "title": "Demon Lords' Banquet",
+        "embedUrl": "https://youtu.be/nMP-kgNIUe0?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 23,
+        "title": "Returning from the Brink",
+        "embedUrl": "https://youtu.be/xUjatudj-xY?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      },
+      {
+        "number": 24,
+        "title": "Octagram",
+        "embedUrl": "https://youtu.be/8RpCLKoa3_A?list=PLwLSw1_eDZl24o1N6adcgGPyIJPfJ21GL"
+      }
     ],
     "description": "*That Time I Got Reincarnated as a Slime – Season 2* cranks up the stakes as Rimuru Tempest evolves from village founder to full-fledged nation leader. Political intrigue, deadly conspiracies, and high-stakes battles collide as Tempest faces betrayal, war, and the dark truth behind humanity’s power plays. Rimuru’s once laid-back diplomacy is forced to give way to decisive, sometimes ruthless, leadership.\n\nThis season shifts from lighthearted isekai fun to complex world-building and moral dilemmas. It explores what it really takes to protect a nation — and what you’re willing to become in the process. For language learners, the series offers a mix of formal speech, fantasy-specific terminology, and emotionally driven conversations — perfect for intermediate learners aiming to handle political nuance and battle-focused dialogue alike."
   },
@@ -2435,136 +2490,137 @@
     "title": "Re: Zero - Season 2",
     "slug": "re-zero-2",
     "image": "https://res.cloudinary.com/dcdqkzmfi/image/upload/v1753970456/re-2_fjgbpc.webp",
-    "level": "JPLT N3",
-    "subtitles": ["Japanese", "English"],
+    "level": "JLPT N3",
+    "subtitles": [
+      "Japanese",
+      "English"
+    ],
     "episodes": [
-        [
-  {
-    "number": 1,
-    "title": "Each One’s Promise",
-    "embedUrl": "https://youtu.be/oJn6iAOtepE?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 2,
-    "title": "The Next Location",
-    "embedUrl": "https://youtu.be/OZgjvY7w_po?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 3,
-    "title": "The Long-Awaited Reunion",
-    "embedUrl": "https://youtu.be/9-yksRZUknQ?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 4,
-    "title": "Parent and Child",
-    "embedUrl": "https://youtu.be/4wvcKxvRCkI?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 5,
-    "title": "A Step Forward",
-    "embedUrl": "https://youtu.be/0ZbL87Fwr78?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 6,
-    "title": "The Sound of Chains",
-    "embedUrl": "https://youtu.be/tJ01mykDLMU?si=3Tc14DReoG54tP5B"
-  },
-  {
-    "number": 7,
-    "title": "Friend",
-    "embedUrl": "https://youtu.be/R7QEVBpqE7U?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 8,
-    "title": "The Value of Life",
-    "embedUrl": "https://youtu.be/A8ew1XKxTzg?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 9,
-    "title": "Love Love Love Love Love Love You",
-    "embedUrl": "https://youtu.be/ThpOA6vV9wQ?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 10,
-    "title": "I Know Hell",
-    "embedUrl": "https://youtu.be/LQyyoFfvNPk?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 11,
-    "title": "The Taste of Death",
-    "embedUrl": "https://youtu.be/ClKrBWlmtXs?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 12,
-    "title": "The Witches’ Tea Party",
-    "embedUrl": "https://youtu.be/mMoFf_jQOpc?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 13,
-    "title": "Sounds That Make You Want to Cry",
-    "embedUrl": "https://youtu.be/m3Yaya8XQ30?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 14,
-    "title": "Straight Bet",
-    "embedUrl": "https://youtu.be/RAVkIHIGJbQ?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 15,
-    "title": "Otto Suwen Will Not Be Defeated",
-    "embedUrl": "https://youtu.be/ryV7OJQLf84?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 16,
-    "title": "Nobody Can Lift a Quain Stone Alone",
-    "embedUrl": "https://youtu.be/RA9zRRfRacg?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 17,
-    "title": "A Journey Through Memories",
-    "embedUrl": "https://youtu.be/o7LQaTaltA4?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 18,
-    "title": "The Permafrost of Elior Forest",
-    "embedUrl": "https://youtu.be/YCsXdFNGy7Q?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 19,
-    "title": "The Day Betelgeuse Laughed",
-    "embedUrl": "https://youtu.be/lH22q2gXDxk?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 20,
-    "title": "Reunion of Roars",
-    "embedUrl": "https://youtu.be/240HfN5d1Wo?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 21,
-    "title": "A Reason to Believe",
-    "embedUrl": "https://youtu.be/2R1bOD1w_1M?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 22,
-    "title": "The Beginning of the Sanctuary and the Beginning of the End",
-    "embedUrl": "https://youtu.be/qXUsUIAJd-E?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 23,
-    "title": "Love Me Down to My Blood and Guts",
-    "embedUrl": "https://youtu.be/2v5agZYR8sk?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 24,
-    "title": "Choose Me",
-    "embedUrl": "https://youtu.be/v4veTWdWF_A?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  },
-  {
-    "number": 25,
-    "title": "Offbeat Steps Under the Moonlight",
-    "embedUrl": "https://youtu.be/egfcDlJD1Bc?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
-  }
-]
+      {
+        "number": 1,
+        "title": "Each One’s Promise",
+        "embedUrl": "https://youtu.be/oJn6iAOtepE?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 2,
+        "title": "The Next Location",
+        "embedUrl": "https://youtu.be/OZgjvY7w_po?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 3,
+        "title": "The Long-Awaited Reunion",
+        "embedUrl": "https://youtu.be/9-yksRZUknQ?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 4,
+        "title": "Parent and Child",
+        "embedUrl": "https://youtu.be/4wvcKxvRCkI?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 5,
+        "title": "A Step Forward",
+        "embedUrl": "https://youtu.be/0ZbL87Fwr78?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 6,
+        "title": "The Sound of Chains",
+        "embedUrl": "https://youtu.be/tJ01mykDLMU?si=3Tc14DReoG54tP5B"
+      },
+      {
+        "number": 7,
+        "title": "Friend",
+        "embedUrl": "https://youtu.be/R7QEVBpqE7U?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 8,
+        "title": "The Value of Life",
+        "embedUrl": "https://youtu.be/A8ew1XKxTzg?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 9,
+        "title": "Love Love Love Love Love Love You",
+        "embedUrl": "https://youtu.be/ThpOA6vV9wQ?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 10,
+        "title": "I Know Hell",
+        "embedUrl": "https://youtu.be/LQyyoFfvNPk?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 11,
+        "title": "The Taste of Death",
+        "embedUrl": "https://youtu.be/ClKrBWlmtXs?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 12,
+        "title": "The Witches’ Tea Party",
+        "embedUrl": "https://youtu.be/mMoFf_jQOpc?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 13,
+        "title": "Sounds That Make You Want to Cry",
+        "embedUrl": "https://youtu.be/m3Yaya8XQ30?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 14,
+        "title": "Straight Bet",
+        "embedUrl": "https://youtu.be/RAVkIHIGJbQ?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 15,
+        "title": "Otto Suwen Will Not Be Defeated",
+        "embedUrl": "https://youtu.be/ryV7OJQLf84?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 16,
+        "title": "Nobody Can Lift a Quain Stone Alone",
+        "embedUrl": "https://youtu.be/RA9zRRfRacg?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 17,
+        "title": "A Journey Through Memories",
+        "embedUrl": "https://youtu.be/o7LQaTaltA4?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 18,
+        "title": "The Permafrost of Elior Forest",
+        "embedUrl": "https://youtu.be/YCsXdFNGy7Q?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 19,
+        "title": "The Day Betelgeuse Laughed",
+        "embedUrl": "https://youtu.be/lH22q2gXDxk?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 20,
+        "title": "Reunion of Roars",
+        "embedUrl": "https://youtu.be/240HfN5d1Wo?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 21,
+        "title": "A Reason to Believe",
+        "embedUrl": "https://youtu.be/2R1bOD1w_1M?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 22,
+        "title": "The Beginning of the Sanctuary and the Beginning of the End",
+        "embedUrl": "https://youtu.be/qXUsUIAJd-E?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 23,
+        "title": "Love Me Down to My Blood and Guts",
+        "embedUrl": "https://youtu.be/2v5agZYR8sk?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 24,
+        "title": "Choose Me",
+        "embedUrl": "https://youtu.be/v4veTWdWF_A?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      },
+      {
+        "number": 25,
+        "title": "Offbeat Steps Under the Moonlight",
+        "embedUrl": "https://youtu.be/egfcDlJD1Bc?list=PLwLSw1_eDZl2vNHSDbAPDD-nel6lYx7kR"
+      }
     ],
     "description": "*Re:Zero – Season 2* dives deep into psychological torment, emotional scars, and the weight of consequence. Subaru's return-by-death ability, once a lifeline, becomes a curse as he faces unraveling timelines, broken spirits, and enemies that can't be beaten with brute force. As truths behind the Sanctuary and the Witches unravel, Subaru is forced to confront not just external threats — but his own mind and soul.\n\nThis season trades fast action for brutal introspection and philosophical weight, testing Subaru’s growth with loss, sacrifice, and unbearable choices. Dialogue is dense, emotionally charged, and often filled with abstract ideas — excellent for advanced learners who want to sharpen their ear for nuance, emotion, and unfiltered human pain."
   }
