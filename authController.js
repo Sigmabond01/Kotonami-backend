@@ -65,5 +65,111 @@ export const register = async (req, res) => {
     return res.status(201).json({
         user:{ id: user._id, email: user.email, name: user.name},
         accessToken,
-    })
-}
+    });
+};
+
+export const login = async (req, res) => {
+    //For a login, this might just check that the email and password fields are not empty.
+    const errors = validationResult(req);
+    if(!errors.isEmpty())
+        return res.status(400).json({
+            errors: errors.array()
+        });
+    //This extracts the email and password provided by the user from the request's body.
+    const {email, password} = req.body;
+    const user = await User.findOne({ email });
+    if(!user) return res.status(401).json({message: "Invalid credentials"});
+
+    //uses bcrypt.compare to safely compare the plain-text password sent by the user with the hashed password
+    const match = await bcrypt.compare(password, user.password);
+    if(!match) return res.status(401).json({message: "Invalid credentials"});
+
+    //Once the user's identity is confirmed, this line calls the signAccessToken function to create a new, short-lived access token.
+    const accessToken = signAccessToken(user);
+
+    //create refresh token
+    const refreshRaw = genRefreshTokenRaw();
+    const refreshHash = hashToken(refreshRaw);
+    const expiresAt = new Date(Date.now() + config.refreshTokenExpiresDays * 24 * 60 * 60 * 1000);
+
+    //A new document is created in the RefreshToken collection, storing the hashed refresh token, the user's ID, and the token's expiration date.
+    await RefreshToken.create({
+        tokenHash: refreshHash,
+        user: user._id,
+        expiresAt,
+    });
+
+    res.cookie("refreshToken", refreshRaw, {
+        httpOnly: true,
+        secure: config.nodeEnv === "production",
+        sameSite: "lax",
+        maxAge: config.refreshTokenExpiresDays * 24 * 60 * 60 * 1000,
+        path: "/api/auth",
+    });
+
+    return res.json({
+        user: {id: user._id, email: user.email, name: user.name },
+        accessToken,
+    });
+};
+
+export const refresh = async (req, res) => {
+    //read raw token from cookie
+    const raw = req.cookies?.refreshToken;
+    if(!raw) return res.status(401).json({message: "No refresh Token"});
+
+    const hash = hashToken(raw);
+    const tokenDoc = await RefreshToken.findOne({tokenHash: hash}).populate("user");
+    if(!token) {
+        return res.status(401).json({message: "Invalid Refresh Token"});
+    }
+
+    if (tokenDoc.revoked || tokenDoc.expiresAt < new Date()) {
+    return res.status(401).json({ message: "Refresh token expired or revoked" });
+  }
+
+  const newRaw = genRefreshTokenRaw();
+  const newHash = hashToken(newRaw);
+  const newExpiresAt = new Date(Date.now() + config.refreshTokenExpiresDays * 24 * 60 * 60 * 1000);
+
+  tokenDoc.revoked = true;
+  tokenDoc.replacedByHash = newHash;
+  await tokenDoc.save();
+
+  await RefreshToken.create({
+    tokenHash : newHash,
+    user: tokenDoc.user._id,
+    expiresAt: newExpiresAt,
+  });
+
+  const accessToken = signAccessToken(tokenDoc.user);
+
+  refresh.cookie("refreshToken", newRaw, {
+    httpOnly: true,
+    secure: config.nodeEnv === "production",
+    sameSite: "lax",
+    maxAge: config.refreshTokenExpiresDays * 24 * 60 * 60 * 1000,
+    path: "/api/auth",
+  });
+
+  return res.json({
+    user: { id: tokenDoc.user._id, email: tokenDoc.user.email, name: tokenDoc.user.name },
+    accessToken,
+  });
+};
+
+export const logout = async (req, res) => {
+    const raw = req.cookies?.refreshToken;
+    if(raw) {
+        const hash = hashToken(raw);
+        await RefreshToken.findOneAndUpdate({ tokenHash: hash }, {revoked: true}).exec();
+    }
+    res.clearCookie("refreshToken", {path: "/api/auth"});
+    return res.json({message: "Logged out"});
+};
+
+export const me = async(req,res) => {
+    const user = await User.findById(req.user.sub).select("-password");
+    if(!user) return res.status(404).json({message: "User not found"});
+    res.json(user);
+};
