@@ -1,9 +1,9 @@
-import User from "../models/User.js";
-import RefreshToken from "../models/RefreshToken.js";
+import User from "./models/User.js";
+import refreshToken from "./models/RefreshTokens.js"
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 import crypto from "crypto";
-import config from "../config.js";
+import config from "./config2.js";
 import { validationResult } from "express-validator";
 import { v4 as uuidv4 } from "uuid";
 
@@ -47,7 +47,7 @@ export const register = async (req, res) => {
     //This calculates the exact expiration date and time for the refresh token based on the number of days specified in your configuration.
     const expiresAt = new Date(Date.now() + config.refreshTokenExpiresDays * 24 * 60 * 60 * 1000);
     
-    await RefreshToken.create({
+    await refreshToken.create({
         tokenHash: refreshHash,
         user: user._id,
         expiresAt,
@@ -93,7 +93,7 @@ export const login = async (req, res) => {
     const expiresAt = new Date(Date.now() + config.refreshTokenExpiresDays * 24 * 60 * 60 * 1000);
 
     //A new document is created in the RefreshToken collection, storing the hashed refresh token, the user's ID, and the token's expiration date.
-    await RefreshToken.create({
+    await refreshToken.create({
         tokenHash: refreshHash,
         user: user._id,
         expiresAt,
@@ -116,53 +116,54 @@ export const login = async (req, res) => {
 export const refresh = async (req, res) => {
     //read raw token from cookie
     const raw = req.cookies?.refreshToken;
-    if(!raw) return res.status(401).json({message: "No refresh Token"});
+    if (!raw) return res.status(401).json({ message: "No refresh Token" });
 
     const hash = hashToken(raw);
-    const tokenDoc = await RefreshToken.findOne({tokenHash: hash}).populate("user");
-    if(!token) {
-        return res.status(401).json({message: "Invalid Refresh Token"});
+    const tokenDoc = await refreshToken.findOne({ tokenHash: hash }).populate("user");
+
+    if (!tokenDoc) {
+        return res.status(401).json({ message: "Invalid Refresh Token" });
     }
 
     if (tokenDoc.revoked || tokenDoc.expiresAt < new Date()) {
-    return res.status(401).json({ message: "Refresh token expired or revoked" });
-  }
+        return res.status(401).json({ message: "Refresh token expired or revoked" });
+    }
 
-  const newRaw = genRefreshTokenRaw();
-  const newHash = hashToken(newRaw);
-  const newExpiresAt = new Date(Date.now() + config.refreshTokenExpiresDays * 24 * 60 * 60 * 1000);
+    const newRaw = genRefreshTokenRaw();
+    const newHash = hashToken(newRaw);
+    const newExpiresAt = new Date(Date.now() + config.refreshTokenExpiresDays * 24 * 60 * 60 * 1000);
 
-  tokenDoc.revoked = true;
-  tokenDoc.replacedByHash = newHash;
-  await tokenDoc.save();
+    tokenDoc.revoked = true;
+    tokenDoc.replacedByHash = newHash;
+    await tokenDoc.save();
 
-  await RefreshToken.create({
-    tokenHash : newHash,
-    user: tokenDoc.user._id,
-    expiresAt: newExpiresAt,
-  });
+    await refreshToken.create({
+        tokenHash: newHash,
+        user: tokenDoc.user._id,
+        expiresAt: newExpiresAt,
+    });
 
-  const accessToken = signAccessToken(tokenDoc.user);
+    const accessToken = signAccessToken(tokenDoc.user);
 
-  refresh.cookie("refreshToken", newRaw, {
-    httpOnly: true,
-    secure: config.nodeEnv === "production",
-    sameSite: "lax",
-    maxAge: config.refreshTokenExpiresDays * 24 * 60 * 60 * 1000,
-    path: "/api/auth",
-  });
+    res.cookie("refreshToken", newRaw, {
+        httpOnly: true,
+        secure: config.nodeEnv === "production",
+        sameSite: "lax",
+        maxAge: config.refreshTokenExpiresDays * 24 * 60 * 60 * 1000,
+        path: "/api/auth",
+    });
 
-  return res.json({
-    user: { id: tokenDoc.user._id, email: tokenDoc.user.email, name: tokenDoc.user.name },
-    accessToken,
-  });
+    return res.json({
+        user: { id: tokenDoc.user._id, email: tokenDoc.user.email, name: tokenDoc.user.name },
+        accessToken,
+    });
 };
 
 export const logout = async (req, res) => {
     const raw = req.cookies?.refreshToken;
     if(raw) {
         const hash = hashToken(raw);
-        await RefreshToken.findOneAndUpdate({ tokenHash: hash }, {revoked: true}).exec();
+        await refreshToken.findOneAndUpdate({ tokenHash: hash }, {revoked: true}).exec();
     }
     res.clearCookie("refreshToken", {path: "/api/auth"});
     return res.json({message: "Logged out"});

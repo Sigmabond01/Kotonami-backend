@@ -9,4 +9,4 @@ const RefreshTokenSchema = new mongoose.Schema({
     replacedByHash: {type: String, default: null},
 });
 
-export default mongoose.model("RefreshToken", RefreshTokenSchema);
+export default mongoose.model("refreshToken", RefreshTokenSchema);
